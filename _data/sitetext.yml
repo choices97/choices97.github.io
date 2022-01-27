@@ -73,6 +73,11 @@ en: &DEFAULT_EN
     text: "my story"
     body: "Currently researching on **IWCL**."
     section: about
+    list:
+      - title: "EUN SUNG CHOI"
+        desc: "M.S student in UNIST"
+        image: assets/img/eunsungchoi.jpg
+        body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
 
   clients:
     section: clients
