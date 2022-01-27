@@ -1,18 +1,19 @@
 ---
-title: Rate Splitting
-subtitle: Write subtitle here
-image: assets/img/portfolio/02-full.jpg
+title: SECOND NEWS
+subtitle: 2022/03/01
+image: assets/img/fun/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Rate Splitting
+  title: Second fun
   subtitle: Write subtitle here
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/fun/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In Preparation...
 
 {:.list-inline}
-- Date: January 2022
-- Publish: Explore
-- Category: Rate Splitting
+- Date: March 2022
+- Client: Me
+- Category: Fun
+
 
