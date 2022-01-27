@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Wireless Communication"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "IoT, Energy Efficient, Massive <bg> Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Machine Learning <bg> for Wireless Communications"
         icon: fas fa-code-branch
       - title: "[Stock](https://finance.naver.com)"
         desc: "Automatic Trading **Stock**"
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "B.S in UNIST, South Korea"
         year: "Mar.2015 - Feb.2022"
-        desc: "In **Electrical Engineering** (Major) <br> In **System Desigㅜ&Control Engineering** (Minor)"
+        desc: "In **Electrical Engineering** (Major) <br> In **System Design&Control Engineering** (Minor)"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "M.S in UNIST, South Korea"
