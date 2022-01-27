@@ -156,12 +156,13 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
+      - url: https://instagram.com/esc_1025
+        icon: "fab fa-instagram"
       - url: https://www.facebook.com/choices97
         icon: "fab fa-facebook-f"
       - url: https://github.com/choices97
         icon: "fab fa-github"
-      - url: https://instagram.com/esc_1025
-        icon: "fab fa-instagram"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
