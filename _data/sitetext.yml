@@ -80,8 +80,6 @@ en: &DEFAULT_EN
     text: "In preparation / submitted"
     section: portfolio
     closebutton: "Close Publication"
-    
-  portfolio:
     title: "Fun"
     text: "Personal News & Fun Things"
     section: fun
