@@ -125,7 +125,7 @@ en: &DEFAULT_EN
           - url: https://sites.google.com/view/seokjunpark/education?authuser=0
             icon: fas fa-globe
           - url: https://www.youtube.com/channel/UCbX2SGVXqRffQCikBCOjLmA
-            icon: fas fa-youtube
+            icon: fab fa-youtube
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
