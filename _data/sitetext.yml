@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Education"
-    text: "Lorem ipsum timeline"
+    text: "Way of my life"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -153,12 +153,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: https://www.facebook.com/choices97
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: https://github.com/choices97
         icon: "fab fa-github"
       - url: https://instagram.com/esc_1025
