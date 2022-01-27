@@ -75,7 +75,7 @@ en: &DEFAULT_EN
       - name: "EUN SUNG CHOI"
         role: "M.S student in IWCL, UNIST"
         image: assets/img/eunsungchoi.jpg
-    body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
+        body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
     section: about
 
   clients:
