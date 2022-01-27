@@ -81,7 +81,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Publication"
     
-  fun:
+  portfolio:
     title: "Fun"
     text: "Personal News & Fun Things"
     section: fun
