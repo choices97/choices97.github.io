@@ -75,7 +75,7 @@ en: &DEFAULT_EN
       - image: assets/img/eunsungchoi.jpg
         name: "EUN SUNG CHOI"
         info: M.S student in IWCL, UNIST
-        email: E-mail : eunsungchoi@unist.ac.kr
+        email: "E-mail : eunsungchoi@unist.ac.kr"
         office: Office : 302-2, Engineering Bldg. 106
         research: Research Interests : Wireless Communications, Machine Learning
     body: "E-mail : eunsungchoi@unist.ac.kr <br> Office : 302-2, Engineering Bldg. 106 <br> Research interest : Wireless Communications, Machine Learning"
