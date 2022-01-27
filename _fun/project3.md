@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: In preparing
-image: assets/img/portfolio/03-full.jpg
+title: THIRD NEWS
+subtitle: 2022/04/01
+image: assets/img/fun/03-full.jpg
 alt: 
 
 caption:
-  title: Publication3
-  subtitle: In preparing
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Third fun
+  subtitle: Write subtitle here
+  thumbnail: assets/img/fun/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In Preparation...
+
 
 {:.list-inline}
-- Date: January 2022
-- Publish: Finish
-- Category: Identity
+- Date: April 2022
+- Client: Me
+- Category: Fun
 
