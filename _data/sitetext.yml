@@ -81,7 +81,7 @@ en: &DEFAULT_EN
     list:
       - title: "UNIST"
         url: https://www.unist.ac.kr
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/unist.jpg
       - title: "IWCL"
         url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
         logo: assets/img/clients/designmodo.jpg
