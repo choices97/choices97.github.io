@@ -70,15 +70,13 @@ en: &DEFAULT_EN
 
   about:
     title: "EUN SUNG CHOI"
-    image: assets/img/eunsungchoi.jpg
     text: "M.S student in IWCL, UNIST"
+    people:
+      - name: "EUN SUNG CHOI"
+        role: "M.S student in IWCL, UNIST"
+        image: assets/img/eunsungchoi.jpg
     body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
     section: about
-#    list:
-#      - title: "EUN SUNG CHOI"
-#        desc: "M.S student in UNIST"
-#        image: assets/img/eunsungchoi.jpg
-#        body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
 
   clients:
     section: clients
