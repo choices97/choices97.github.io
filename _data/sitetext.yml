@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my webpage!
+    title: Welcome to my Webpage!
     text: EUN SUNG CHOI
     button: ABOUT ME
     buttonlink: "#services"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Publications"
-    text: "In preparation / submitted"
+    text: "In preparation | submitted"
     section: portfolio
     closebutton: "Close Publication"
 
@@ -46,12 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "B.S in **UNIST**, South Korea"
         year: "Mar.2015 - Feb.2022"
-        desc: "In **Electrical Engineering** (Major) <br> In**System Design and Control Engineering** (Minor), 
+        desc: "In **Electrical Engineering** (Major), In**System Design and Control Engineering** (Minor), 
         image: assets/img/timeline/1.jpg
         alt:
       - title: "M.S in **UNIST**, South Korea"
         year: "Mar.2022 - Current"
-        desc: "In Electrical Engineering : Wireless Communications with instructor of <br> [IWCL](https://https://sites.google.com/site/jinseokchoi89/home?authuser=0), Jinseok Choi"
+        desc: "In Electrical Engineering : Wireless Communications with instructor of [IWCL](https://https://sites.google.com/site/jinseokchoi89/home?authuser=0), Jinseok Choi"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Near Future"
@@ -79,23 +79,23 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "unist"
+      - title: "envato"
         url: https://www.unist.ac.kr
         logo: assets/img/clients/envato.jpg
-      - title: "IWCL"
+      - title: "designmodo"
         url: https://https://sites.google.com/site/jinseokchoi89/home?authuser=0
         logo: assets/img/clients/designmodo.jpg
-      - title: "IEEE"
+      - title: "themeforest"
         url: https://ieeexplore.ieee.org/Xplore/home.jsp
         logo: assets/img/clients/themeforest.jpg
-      - title: "google scholar"
+      - title: "Creative Market"
         url: https://https://scholar.google.com/
         logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Members of IWCL"
-    subtext: **Under construction**.
+    subtext: Under construction.
     section: team
     people:
       - name: "Mintaek Oh"
