@@ -16,6 +16,6 @@ To resolve this difficulty, we first tightly approximate the sum secrecy spectra
 
 {:.list-inline}
 - Date: March 2022
-- Client: Threads
-- Category: Illustration
+- Publish: IEEE
+- Category: Artificial Noise Injection
 
