@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: services
     - title: "Publications"
       section: portfolio
+    - title: "Fun"
+      section: fun
     - title: "Team"
       section: team
     - title: "Contact"
