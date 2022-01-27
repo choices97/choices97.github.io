@@ -46,12 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "B.S in UNIST, South Korea"
         year: "Mar.2015 - Feb.2022"
-        desc: "In **Electrical Engineering** (Major) <br> In **System Desig&Control Engineering** (Minor)"
+        desc: "In **Electrical Engineering** (Major) <br> In **System Desigㅜ&Control Engineering** (Minor)"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "M.S in **UNIST**, South Korea"
+      - title: "M.S in UNIST, South Korea"
         year: "Mar.2022 - Current"
-        desc: "In Electrical Engineering : Wireless Communications with instructor of [IWCL](https://https://sites.google.com/site/jinseokchoi89/home?authuser=0), Jinseok Choi"
+        desc: "In Electrical Engineering : <br> Wireless Communications <br> with instructor of [IWCL](https://https://sites.google.com/site/jinseokchoi89/home?authuser=0), <br> Jinseok Choi"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Near Future"
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of My <br> Story!"
 
   about:
-    title: "About Me"
+    title: "Current"
     text: "my story"
     body: "Currently researching on **IWCL**."
     section: about
