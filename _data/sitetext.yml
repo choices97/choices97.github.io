@@ -69,13 +69,16 @@ en: &DEFAULT_EN
     end: "Be Part <br> of My <br> Story!"
 
   about:
-    title: "EUN SUNG CHOI"
-    text: "M.S student in IWCL, UNIST"
+    title: "ABOUT ME"
+    text: "Informations"
     people:
-      - name: "EUN SUNG CHOI"
-        role: "M.S student in IWCL, UNIST"
-        image: assets/img/eunsungchoi.jpg
-    body: "E-mail : eunsungchoi@unist.ac.kr <bg> Office : 302-2, Engineering Bldg. 106 <bg> Research interest : Wireless Communications, Machine Learning"
+      - image: assets/img/eunsungchoi.jpg
+        name: "EUN SUNG CHOI"
+        info: M.S student in IWCL, UNIST
+        email: E-mail : eunsungchoi@unist.ac.kr
+        office: Office : 302-2, Engineering Bldg. 106
+        research: Research Interests : Wireless Communications, Machine Learning
+    body: "E-mail : eunsungchoi@unist.ac.kr <br> Office : 302-2, Engineering Bldg. 106 <br> Research interest : Wireless Communications, Machine Learning"
     section: about
 
   clients:
