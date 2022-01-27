@@ -16,26 +16,18 @@ en: &DEFAULT_EN
     button: ABOUT ME
     buttonlink: "#services"
 
-  services:
+  about:
     title: "ABOUT ME"
-    text: "ROOM 302-2, ENGINEERING BLDG. 106, UNIST, UNIST-GIL 50, ULSAN, REPUBLIC OF KOREA"
-    section: services
-    list:
-      - title: "Wireless Communication"
-        desc: "IoT, Energy Efficient, Massive <bg> Communications"
-        icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
-      - title: "Machine Learning"
-        desc: "Machine Learning <bg> for Wireless Communications"
-        icon: fas fa-code-branch
-      - title: "[Stock](https://finance.naver.com)"
-        desc: "Automatic Trading **Stock**"
-        icon: fas fa-chart-line
-
-  portfolio:
-    title: "Publications"
-    text: "In preparation / submitted"
-    section: portfolio
-    closebutton: "Close Publication"
+    text: "Informations"
+    people:
+      - image: assets/img/eunsungchoi.jpg
+        name: "EUN SUNG CHOI"
+        info: M.S student in IWCL, UNIST
+        email: "E-mail : eunsungchoi@unist.ac.kr"
+        office: "Office : 302-2, Engineering Bldg. 106"
+        research: "Research Interests : Wireless Communications, Machine Learning"
+    #body: "Feel free to contact me!"
+    section: about
 
   timeline:
     title: "Education"
@@ -66,38 +58,29 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of My <br> Story!"
+    end: "Be Part <br> of My <br> Life!"
 
-  about:
-    title: "ABOUT ME"
-    text: "Informations"
-    people:
-      - image: assets/img/eunsungchoi.jpg
-        name: "EUN SUNG CHOI"
-        info: M.S student in IWCL, UNIST
-        email: "E-mail : eunsungchoi@unist.ac.kr"
-        office: "Office : 302-2, Engineering Bldg. 106"
-        research: "Research Interests : Wireless Communications, Machine Learning"
-    body: "E-mail : eunsungchoi@unist.ac.kr <br> Office : 302-2, Engineering Bldg. 106 <br> Research interest : Wireless Communications, Machine Learning"
-    section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+  services:
+    title: "Research Interest"
+    text: "ROOM 302-2, ENGINEERING BLDG. 106, UNIST, UNIST-GIL 50, ULSAN, REPUBLIC OF KOREA"
+    section: services
     list:
-      - title: "UNIST"
-        url: https://www.unist.ac.kr
-        logo: assets/img/clients/unist.jpg
-      - title: "IWCL"
-        url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
-        logo: assets/img/clients/iwcl.jpg
-      - title: "IEEE"
-        url: https://ieeexplore.ieee.org/Xplore/home.jsp
-        logo: assets/img/clients/ieee.jpg
-      - title: "Google Scholar"
-        url: https://https://scholar.google.com/
-        logo: assets/img/clients/google.jpg
+      - title: "Wireless Communication"
+        desc: "IoT, Energy Efficient, Massive <bg> Communications"
+        icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
+      - title: "Machine Learning"
+        desc: "Machine Learning <bg> for Wireless Communications"
+        icon: fas fa-code-branch
+      - title: "[Stock](https://finance.naver.com)"
+        desc: "Automatic Trading **Stock**"
+        icon: fas fa-chart-line
+
+  portfolio:
+    title: "Publications"
+    text: "In preparation / submitted"
+    section: portfolio
+    closebutton: "Close Publication"
+    
 
   team:
     title: "OUR AMAZING TEAM"
@@ -135,6 +118,25 @@ en: &DEFAULT_EN
             icon: fab fa-youtube
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "UNIST"
+        url: https://www.unist.ac.kr
+        logo: assets/img/clients/unist.jpg
+      - title: "IWCL"
+        url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+        logo: assets/img/clients/iwcl.jpg
+      - title: "IEEE"
+        url: https://ieeexplore.ieee.org/Xplore/home.jsp
+        logo: assets/img/clients/ieee.jpg
+      - title: "Google Scholar"
+        url: https://https://scholar.google.com/
+        logo: assets/img/clients/google.jpg
+
 
   contact:
     title: "Contact Me"
