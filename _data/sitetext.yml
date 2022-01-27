@@ -66,13 +66,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Wireless Communication"
-        desc: "IoT, Energy Efficient, Massive <bg> Communications"
+        desc: "IoT, Energy Efficient, <br> Massive  Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
-        desc: "Machine Learning <bg> for Wireless Communications"
+        desc: "Machine Learning <br> for Wireless Communications"
         icon: fas fa-code-branch
-      - title: "[Stock](https://finance.naver.com)"
-        desc: "Machine Learning Aided Automatic [Stock](https://github.com/choices97/ProjectAutoTrade) Trading"
+      - title: "Stock"
+        desc: "Machine Learning Aided <br> Automatic [Stock](https://github.com/choices97/ProjectAutoTrade) Trading"
         icon: fas fa-chart-line
 
   portfolio:
