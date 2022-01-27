@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to my Webpage!
     text: EUN SUNG CHOI
     button: ABOUT ME
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   about:
     title: "ABOUT ME"
@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         email: "E-mail : eunsungchoi@unist.ac.kr"
         office: "Office : 302-2, Engineering Bldg. 106"
         research: "Research Interests : Wireless Communications, Machine Learning"
-    #body: "Feel free to contact me!"
+    body: "Feel free to contact me!"
     section: about
 
   timeline:
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Research Interest"
-    text: "ROOM 302-2, ENGINEERING BLDG. 106, UNIST, UNIST-GIL 50, ULSAN, REPUBLIC OF KOREA"
+    text: "Electrical Engineering & AI"
     section: services
     list:
       - title: "Wireless Communication"
