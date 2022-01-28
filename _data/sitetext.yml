@@ -105,7 +105,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jinseok Choi"
         role: "Assistant Professor"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.gif
         social:
           - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
             icon: fas fa-globe
