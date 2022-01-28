@@ -125,7 +125,15 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
-      - name: "Next"
+      - name: "Next member"
+        role: "role"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+            icon: fas fa-globe
+          - url: https://instagram.com
+            icon: "fab fa-instagram"
+      - name: "Next member"
         role: "role"
         image: assets/img/team/500x500.jpg
         social:
