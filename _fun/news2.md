@@ -7,7 +7,7 @@ discription1: Write discription here
 #discription2: 
 #image3: 
 #discription3: 
-#alt: Second news
+alt: Second news
 
 caption:
   title: SECOND NEWS
