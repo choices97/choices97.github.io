@@ -6,7 +6,7 @@ discription1: Attractive places
 image2: assets/img/fun/news1_2.jpg
 discription2: Unique foods
 image3: assets/img/fun/news1_3.jpg
-discription3: Nice places
+discription3: Awsome moments
 alt: First news
 
 caption:
@@ -14,7 +14,7 @@ caption:
   subtitle: 2021/12/27
   thumbnail: assets/img/fun/news1_thumbnail.jpg
 ---
-제주여행지,맛집..! :
+Recommand places!! : <br>
 카페더콘테나
 메이즈랜드
 제주 아쿠아리움
