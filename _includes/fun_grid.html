@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="row">
-	{% for news in site.fun %}
+	{% for project in site.fun %}
       <div class="col-md-4 col-sm-6 fun-item">
         <a class="fun-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="fun-hover">
@@ -16,11 +16,11 @@
               <i class="{{ site.data.style.fun-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ news.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="fun-caption">
-          <h4>{{ news.caption.title }}</h4>
-          <p class="text-muted">{{ news.caption.subtitle }}</p>
+          <h4>{{ project.caption.title }}</h4>
+          <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
 	{% endfor %}
