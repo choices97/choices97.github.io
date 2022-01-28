@@ -5,8 +5,8 @@ image: assets/img/fun/03-full.jpg
 alt: 
 
 caption:
-  title: Third fun
-  subtitle: Write subtitle here
+  title: THIRD FUN
+  subtitle: 2022/04/01
   thumbnail: assets/img/fun/03-thumbnail.jpg
 ---
 In Preparation...
