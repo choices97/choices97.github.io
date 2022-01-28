@@ -11,7 +11,7 @@ caption:
   subtitle: 2022/04/01
   thumbnail: assets/img/fun/news3_thumbnail.gif
 ---
-In Preparation...
+Contents will be updated soon.
 
 
 {:.list-inline}
