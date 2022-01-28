@@ -75,7 +75,7 @@ en: &DEFAULT_EN
         desc: "Machine Learning <br> for Wireless Communications"
         icon: fas fa-code-branch
       - title: "Stock"
-        desc: "Machine Learning Aided <br> Automatic [Stock](https://github.com/choices97/ProjectAutoTrade) Trading"
+        desc: "Machine Learning Aided <br> [Stock](https://github.com/choices97/ProjectAutoTrade) Trading Project"
         icon: fas fa-chart-line
 
   portfolio:
