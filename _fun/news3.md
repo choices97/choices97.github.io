@@ -12,7 +12,7 @@ alt: Third news
 caption:
   title: THIRD NEWS
   subtitle: 2022/04/01
-  thumbnail: assets/img/fun/03-thumbnail.jpg
+  thumbnail: assets/img/fun/news3_thumbnail.jpg
 ---
 In Preparation...
 
