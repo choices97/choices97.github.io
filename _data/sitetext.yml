@@ -129,6 +129,8 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://www.youtube.com/channel/UCbX2SGVXqRffQCikBCOjLmA
             icon: fab fa-youtube
+          - url: https://www.instagram.com/seok___j.u.n/
+            icon: "fab fa-instagram"
       - name: "Sangmin Lee"
         role: "Lab management"
         image: assets/img/team/4.jpg
