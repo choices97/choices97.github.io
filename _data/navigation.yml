@@ -25,8 +25,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Github"
-      url: https://github.com/choices97
+    - title: "IWCL"
+      url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
 en-US:
   <<: *DEFAULT_EN
 en-CA:
