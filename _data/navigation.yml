@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Education"
       section: timeline
-    - title: "Research"
+    - title: "Interests"
       section: services
     - title: "Publications"
       section: portfolio
