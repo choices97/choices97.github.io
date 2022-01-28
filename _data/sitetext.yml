@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Education"
-    text: "Way of my life"
+    text: "My timelines"
     section: timeline
     # left is the default
     #start_align: "left"
