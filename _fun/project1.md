@@ -1,22 +1,33 @@
 ---
-title: FIRST NEWS!
+title: TRAVEL - JEJU island
 subtitle: 2022/02/01
-image1: assets/img/fun/01-full.jpg
-discription1: Write discription here
-image2: assets/img/fun/02-full.jpg
-discription2: Write discription here
-image3: assets/img/fun/03-full.jpg
-discription3: Write discription here
+image1: assets/img/fun/news1_1.jpg
+discription1: Attractive places
+image2: assets/img/fun/news1_2.jpg
+discription2: Unique foods
+image3: assets/img/fun/news1_3.jpg
+discription3: Nice places
 alt: First news
 
 caption:
-  title: FIRST NEWS
-  subtitle: 2022/02/01
-  thumbnail: assets/img/fun/01-thumbnail.jpg
+  title: TRAVEL
+  subtitle: 2021/12/27
+  thumbnail: assets/img/fun/news1_thumbnail.jpg
 ---
-In Preparation...
+제주여행지,맛집..! :
+카페더콘테나
+메이즈랜드
+제주 아쿠아리움
+섭지코지
+주상절리
+오설록 뮤지엄
+카멜리아힐
+981파크
+애월한담공원
+넥슨컴퓨터박물관
+
 
 {:.list-inline}
-- Date: Feb 2022
-- Client: Me
+- Date: Dec 2021
+- Traver: Me & My friends
 - Category: Fun
