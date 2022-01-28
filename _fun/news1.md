@@ -8,6 +8,7 @@ discription2: Unique foods
 image3: assets/img/fun/news1_3.jpg
 discription3: Awsome moments
 alt: First news
+comments: true
 
 caption:
   title: TRAVEL
