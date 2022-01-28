@@ -1,5 +1,5 @@
 ---
-title: CAFE
+title: SECOND NEWS
 subtitle: 2022/01/15
 image1: assets/img/fun/news2_1.jpg
 discription1: Cafe Balena Six
@@ -10,7 +10,7 @@ discription1: Cafe Balena Six
 alt: Second news
 
 caption:
-  title: SECOND NEWS
+  title: CAFE
   subtitle: 2022/01/15
   thumbnail: assets/img/fun/news2_thumbnail.jpg
 ---
