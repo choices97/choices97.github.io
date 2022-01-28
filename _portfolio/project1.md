@@ -2,7 +2,7 @@
 title: A Framework of Precoding and Artificial Noise Joint Design for Downlink Secure MIMO Communications
 subtitle: Eunsung Choi, Mintaek Oh, Jeonghun Park, Namyoon Lee, Jemin Lee, and Jinseok Choi
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: First Publication
 
 caption:
   title: AN injection
