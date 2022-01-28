@@ -84,7 +84,7 @@ en: &DEFAULT_EN
         desc: "Skiing, Snow Boarding <br> and more sports"
         icon: fas fa-snowflake
       - title: "Travel"
-        desc: "Huge world to experience"
+        desc: "Huge world to experience <br> no matter the distance"
         icon: fas fa-plane-departure
         
   portfolio:
