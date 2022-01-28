@@ -1,6 +1,6 @@
 ---
 title: TRAVEL - JEJU island
-subtitle: 2022/02/01
+subtitle: 2022/12/27
 image1: assets/img/fun/news1_1.jpg
 discription1: Attractive places
 image2: assets/img/fun/news1_2.jpg
