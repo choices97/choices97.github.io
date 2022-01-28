@@ -10,7 +10,7 @@
     <div class="row">
 	{% for project in site.fun %}
       <div class="col-md-4 col-sm-6 fun-item">
-        <a class="fun-link" data-toggle="modal" href="#modals_fun.html/p{{ forloop.index }}">
+        <a class="fun-link" data-toggle="modal" href="#p{{ fun.forloop.index }}">
           <div class="fun-hover">
             <div class="fun-hover-content">
               <i class="{{ site.data.style.fun-icon | default: "fas fa-plus fa-3x" }}"></i>
