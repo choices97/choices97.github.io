@@ -8,6 +8,7 @@ discription1: Cafe Balena Six
 //image3: 
 //discription3: 
 alt: Second news
+comments: true
 
 caption:
   title: CAFE
