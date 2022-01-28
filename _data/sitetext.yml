@@ -80,6 +80,12 @@ en: &DEFAULT_EN
       - title: "Swimming"
         desc: "Freestyle Backstroke <br> Breaststroke Butterfly + Lifeguard"
         icon: fas fa-swimmer
+      - title: "Snow Boarding"
+        desc: "Skiing, Snow Boarding <br> and more sports"
+        icon: fas fa-snowflake
+      - title: "Travel"
+        desc: "Huge world to experience"
+        icon: fas fa-plane-departure
         
   portfolio:
     title: "Publications"
