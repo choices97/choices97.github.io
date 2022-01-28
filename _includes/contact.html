@@ -34,27 +34,7 @@
                   placeholder="{{ site.data.sitetext[site.locale].contact.phone | default: "Phone Number*" }}"
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
                 <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="form-group">
-                <textarea name="message" class="form-control" id="message"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Message*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}">
-                </textarea>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <input type="hidden" name="_subject" id="email-subject"
-              value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
-            <div class="clearfix"></div>
-            <div class="col-lg-12 text-center">
-              <div id="success"></div>
-              <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
-                type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
-            </div>
-            
-            
+                
               <div id="disqus_thread"></div>
               <script>
                   /**
@@ -74,8 +54,27 @@
                   })();
               </script>
               <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            
-            
+                
+                
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea name="message" class="form-control" id="message"
+                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Message*" }}"
+                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}">
+                </textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <input type="hidden" name="_subject" id="email-subject"
+              value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+              <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
+                type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
+            </div>
             <input type="text" name="_gotcha" style="display:none">
             <input type="hidden" name="_next" value="#" />
             
