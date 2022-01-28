@@ -1,5 +1,5 @@
 <!-- Fun Modals -->
-{% for news in site.fun %}
+{% for project in site.fun %}
 <div
   class="fun-modal modal fade"
   id="p{{ forloop.index }}"
@@ -18,15 +18,15 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
-              <!-- news Details Go Here -->
-              <h2 class="text-uppercase">{{ news.title }}</h2>
-              <p class="item-intro text-muted">{{ news.subtitle }}</p>
+              <!-- project Details Go Here -->
+              <h2 class="text-uppercase">{{ project.title }}</h2>
+              <p class="item-intro text-muted">{{ project.subtitle }}</p>
               <img
                 class="img-fluid d-block mx-auto"
-                src="{{ news.image }}"
-                alt="{{ news.alt }}"
+                src="{{ project.image }}"
+                alt="{{ project.alt }}"
               />
-              <p>{{ news.content }}</p>
+              <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
