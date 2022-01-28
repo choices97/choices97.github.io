@@ -12,7 +12,7 @@ alt: Second news
 caption:
   title: SECOND NEWS
   subtitle: 2022/03/01
-  thumbnail: assets/img/fun/news2-thumbnail.jpg
+  thumbnail: assets/img/fun/news2_thumbnail.jpg
 ---
 In Preparation...
 
