@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         info: M.S student in IWCL, UNIST
         email: "E-mail : eunsungchoi@unist.ac.kr"
         office: "Office : 302-2, Engineering Bldg. 106"
-        research: "Research Interests : Wireless Communications, Machine Learning"
+        research: "Interests : Wireless Communications, Machine Learning, Stock"
     body: "Feel free to contact me!"
     section: about
 
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of My <br> Life!"
 
   services:
-    title: "Research Interest"
+    title: "Interests"
     text: "Electrical Engineering & AI"
     section: services
     list:
