@@ -1,9 +1,9 @@
 ---
 title: FIRST NEWS!
 subtitle: 2022/02/01
-image: assets/img/fun/01-full.jpg
-image: assets/img/fun/02-full.jpg
-image: assets/img/fun/03-full.jpg
+image1: assets/img/fun/01-full.jpg
+image2: assets/img/fun/02-full.jpg
+image3: assets/img/fun/03-full.jpg
 alt: Shirts on a hanger
 
 caption:
