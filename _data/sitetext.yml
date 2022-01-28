@@ -76,8 +76,11 @@ en: &DEFAULT_EN
         icon: fas fa-code-branch
       - title: "Stock"
         desc: "Machine Learning Aided <br> [Stock](https://github.com/choices97/ProjectAutoTrade) Trading Project"
-        icon: fas fa-chart-line
-
+        icon: fas fa-connectdevelop
+      - title: "Swimming"
+        desc: "Freestyle Backstroke Breaststroke Butterfly + Lifeguard"
+        icon: fas fa-swimmer
+        
   portfolio:
     title: "Publications"
     text: "In preparation / submitted"
