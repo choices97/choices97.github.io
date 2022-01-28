@@ -5,7 +5,7 @@ image: assets/img/fun/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: SECOND FUN
+  title: SECOND NEWS
   subtitle: 2022/03/01
   thumbnail: assets/img/fun/02-thumbnail.jpg
 ---
