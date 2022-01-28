@@ -8,6 +8,7 @@ discription1: Write discription here
 //image3: 
 //discription3: 
 alt: Third news
+comments: true
 
 caption:
   title: ACTIVITIES
