@@ -1,8 +1,13 @@
 ---
 title: THIRD NEWS
 subtitle: 2022/04/01
-image: assets/img/fun/03-full.jpg
-alt: 
+image1: assets/img/fun/03-full.jpg
+discription1: Write discription here
+image2: 
+discription2: 
+image3: 
+discription3: 
+alt: Third news
 
 caption:
   title: THIRD NEWS
