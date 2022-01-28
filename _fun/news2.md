@@ -11,7 +11,7 @@ caption:
   subtitle: 2022/01/15
   thumbnail: assets/img/fun/news2_thumbnail.jpg
 ---
-In Preparation...
+contents will be updated soon.
 
 {:.list-inline}
 - Date: January 2022
