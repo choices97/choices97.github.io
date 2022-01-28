@@ -90,7 +90,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Members of IWCL"
-    subtext: Under construction.
+    subtext: Will be updated soon.
     section: team
     people:
       - name: "Mintaek Oh"
@@ -139,13 +139,13 @@ en: &DEFAULT_EN
         url: https://ieeexplore.ieee.org/Xplore/home.jsp
         logo: assets/img/clients/ieee.jpg
       - title: "Google Scholar"
-        url: https://https://scholar.google.com/
+        url: https://scholar.google.com/
         logo: assets/img/clients/google.jpg
 
 
   contact:
     title: "Contact Me"
-    text: "Send email or text 01055801266"
+    text: "Send me email or dm"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
