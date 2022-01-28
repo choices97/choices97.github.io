@@ -5,7 +5,7 @@ image: assets/img/fun/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: FIRST FUN
+  title: FIRST NEWS
   subtitle: 2022/02/01
   thumbnail: assets/img/fun/01-thumbnail.jpg
 ---
