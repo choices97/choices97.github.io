@@ -106,7 +106,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Jinseok Choi"
-        role: "Assistant Professor"
+        role: "Professor"
         image: assets/img/team/1.gif
         social:
           - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
