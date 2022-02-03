@@ -115,7 +115,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
       - name: "Mintaek Oh"
         role: "Combined M.S-Ph.D"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
             icon: fas fa-globe
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
           #  icon: "fab fa-instagram"
       - name: "Sangmin Lee"
         role: "B.S intern"
-        image: assets/img/team/4.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
             icon: fas fa-globe
