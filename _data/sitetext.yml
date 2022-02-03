@@ -72,7 +72,7 @@ en: &DEFAULT_EN
         desc: "IoT, Energy Efficient, <br> Massive  Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
-        desc: "Ability : C/C++, MATLAB, Python(studying) <br> Machine Learning for communication"
+        desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for communication"
         icon: fab fa-connectdevelop
       - title: "Stock"
         desc: "Stock Trading [Program](https://github.com/choices97/ProjectAutoTrade) <br> (under construction)"
