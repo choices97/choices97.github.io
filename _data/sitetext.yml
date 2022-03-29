@@ -109,7 +109,7 @@ en: &DEFAULT_EN
         role: "Professor"
         image: assets/img/team/1.gif
         social:
-          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+          - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/4.jpg
         social:
-          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+          - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -135,7 +135,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+          - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
         role: "B.S intern"
         image: assets/img/team/2.jpg
         social:
-          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+          - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -151,7 +151,7 @@ en: &DEFAULT_EN
         role: "role"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+          - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -165,7 +165,7 @@ en: &DEFAULT_EN
         url: https://www.unist.ac.kr
         logo: assets/img/clients/unist.jpg
       - title: "IWCL"
-        url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+        url: https://sites.google.com/view/iwcl
         logo: assets/img/clients/iwcl.jpg
       - title: "IEEE"
         url: https://ieeexplore.ieee.org/Xplore/home.jsp
