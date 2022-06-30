@@ -26,7 +26,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "IWCL"
-      url: https://sites.google.com/site/jinseokchoi89/home?authuser=0
+      url: https://sites.google.com/view/iwcl
 en-US:
   <<: *DEFAULT_EN
 en-CA:
