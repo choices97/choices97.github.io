@@ -133,7 +133,7 @@ en: &DEFAULT_EN
           #  icon: "fab fa-instagram"
       - name: "Seunghyeong Yoo"
         role: "Combined M.S-Ph.D"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
@@ -149,7 +149,7 @@ en: &DEFAULT_EN
             icon: "fab fa-instagram"
       - name: "Soomin Bae"
         role: "B.S intern"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
@@ -157,7 +157,7 @@ en: &DEFAULT_EN
             icon: "fab fa-instagram"
       - name: "Kyunghan Sin"
         role: "B.S intern"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
