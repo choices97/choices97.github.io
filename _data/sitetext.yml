@@ -147,8 +147,16 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
-      - name: "Next member"
-        role: "role"
+      - name: "Soomin Bae"
+        role: "B.S intern"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://sites.google.com/view/iwcl
+            icon: fas fa-globe
+          - url: https://instagram.com
+            icon: "fab fa-instagram"
+      - name: "Kyunghan Sin"
+        role: "B.S intern"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://sites.google.com/view/iwcl
