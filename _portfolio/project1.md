@@ -1,7 +1,7 @@
 ---
 title: Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels
 subtitle: Eunsung Choi, Mintaek Oh, Jinseok Choi, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/01-full.png
 alt: First Publication
 
 caption:
