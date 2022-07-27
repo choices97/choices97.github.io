@@ -135,8 +135,8 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/4.jpg
         social:
-          - url: https://sites.google.com/view/iwcl
-            icon: fas fa-globe
+          - url: https://github.com/seunghy1468
+            icon: "fab fa-github"
           - url: https://instagram.com/gabriel_yoo__
             icon: "fab fa-instagram"
       - name: "Sangmin Lee"
