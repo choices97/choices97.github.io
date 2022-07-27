@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         office: "Office"
         offices: "302-2, Engineering Bldg. 106"
         research: "Interests"
-        researches: "Wireless Communications, Machine Learning, Stock, Swimming"
+        researches: "Wireless Communications, Machine Learning, Stock, Swimming, Diving"
     body: "Feel free to contact me!"
     section: about
 
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Wireless Communication"
-        desc: "IoT, Energy Efficient, <br> Massive  Communications"
+        desc: "Massive, Energy Efficient, <br> Secure  Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for communication"
@@ -78,13 +78,13 @@ en: &DEFAULT_EN
         desc: "Stock Trading [Program](https://github.com/choices97/ProjectAutoTrade) <br> (under construction)"
         icon: fas fa-chart-line
       - title: "Swimming"
-        desc: "Freestyle Backstroke <br> Breaststroke Butterfly + Lifeguard"
+        desc: "Skills : Lifeguard (Red cross), Scuba Diving (Advanced) <br> Freediving (RAID Lv.2) "
         icon: fas fa-swimmer
       - title: "Snow Boarding"
         desc: "Skiing, Snow Boarding <br> and more sports"
         icon: fas fa-snowflake
       - title: "Travel"
-        desc: "Huge world to go <br> domestic/overseas travel"
+        desc: "domestic/overseas"
         icon: fas fa-plane-departure
         
   portfolio:
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Members of IWCL"
-    subtext: Will be updated soon.
+    subtext: Intelligent Wireless Communications Lab.
     section: team
     people:
       - name: "Jinseok Choi"
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/4.jpg
         social:
-          - url: https://sites.google.com/view/iwcl
+          - url: https://sites.google.com/view/ohmin95
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -129,15 +129,15 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://www.youtube.com/channel/UCbX2SGVXqRffQCikBCOjLmA
             icon: fab fa-youtube
-          #- url: https://www.instagram.com/seok___j.u.n/
-          #  icon: "fab fa-instagram"
+          - url: https://www.instagram.com/seok___j.u.n/
+            icon: "fab fa-instagram"
       - name: "Seunghyeong Yoo"
         role: "Combined M.S-Ph.D"
         image: assets/img/team/4.jpg
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
-          - url: https://instagram.com
+          - url: https://instagram.com/gabriel_yoo__
             icon: "fab fa-instagram"
       - name: "Sangmin Lee"
         role: "B.S intern"
@@ -145,7 +145,7 @@ en: &DEFAULT_EN
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
-          - url: https://instagram.com
+          - url: https://instagram.com/2__sangmin
             icon: "fab fa-instagram"
       - name: "Soomin Bae"
         role: "B.S intern"
@@ -161,7 +161,7 @@ en: &DEFAULT_EN
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
-          - url: https://instagram.com
+          - url: https://instagram.com/kkyung_hi
             icon: "fab fa-instagram"
 
   clients:
