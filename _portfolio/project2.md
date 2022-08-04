@@ -2,7 +2,7 @@
 title: SATCOM
 subtitle: Hybrid Beamforming
 image: assets/img/portfolio/SATCOM.jpg
-alt: Keep Exploring
+alt: Second Publication
 
 caption:
   title: SATCOM
