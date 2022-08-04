@@ -1,6 +1,6 @@
 ---
-title: SATCOM
-subtitle: Hybrid Beamforming
+title: Artificial Noise-Aided Hybrid Secure Precoding for Satellite Communication
+subtitle: Eunsung Choi, Jinseok Choi
 image: assets/img/portfolio/SATCOM.jpg
 alt: Second Publication
 
