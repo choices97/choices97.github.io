@@ -51,12 +51,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Near Future"
         year: "2024"
-        desc: "Under construction"
+        desc: "In Preparation"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Far Future"
         year: "2028"
-        desc: "Under construction"
+        desc: "In Preparation"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         
   portfolio:
     title: "Publications"
-    text: "In preparation / submitted"
+    text: "In preparation / Submitted"
     list:
       - title: "**[submitted]**"
         desc: "[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), IEEE Transactions on Communications (submitted)"
@@ -190,7 +190,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Leave a Comments or send E-mail"
+    text: "Leave a Comments or Send E-mail Here"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
