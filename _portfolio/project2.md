@@ -1,13 +1,13 @@
 ---
 title: SATCOM
 subtitle: Hybrid beamforming
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/SATCOM.jpg
 alt: Keep Exploring
 
 caption:
   title: SATCOM
   subtitle: Hybrid beamforming
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/SATCOM_thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
