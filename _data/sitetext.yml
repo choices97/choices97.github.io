@@ -72,19 +72,19 @@ en: &DEFAULT_EN
         desc: "Massive, Energy Efficient, <br> Secure  Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
-        desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for communication"
+        desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for Communication"
         icon: fab fa-connectdevelop
       - title: "Stock"
         desc: "Stock Trading [Program](https://github.com/choices97/ProjectAutoTrade) <br> (under construction)"
         icon: fas fa-chart-line
-      - title: "Swimming"
+      - title: "Swimming & Diving"
         desc: "Skills : Lifeguard (Red cross), <br> Scuba Diving (Advanced), <br> Freediving (RAID Lv.2)"
         icon: fas fa-swimmer
       - title: "Snow Boarding"
-        desc: "Skiing, Snow Boarding <br> and more sports"
+        desc: "Skiing, Snow Boarding <br> and More Sports"
         icon: fas fa-snowflake
       - title: "Travel"
-        desc: "domestic/overseas"
+        desc: "Domestic/Overseas"
         icon: fas fa-plane-departure
         
   portfolio:
@@ -95,10 +95,6 @@ en: &DEFAULT_EN
         desc: "[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), IEEE Transactions on Communications (submitted)"
       - title: "**[domestic]**"
         desc: "[dc1] **최은성**, 오민택, 최진석, &ldquo;보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주"
-    #**[submitted]**,
-    #[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, ""[Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels](https://arxiv.org/abs/2207.09823),"" IEEE Transactions on Communications (submitted)
-    #text: "**[domestic]** <br>"
-    #text: "[dc1] 최은성, 오민택, 최진석, ""보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크"", 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주"
     section: portfolio
     closebutton: "Close Publication"
     
