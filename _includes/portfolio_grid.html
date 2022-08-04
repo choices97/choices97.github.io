@@ -9,7 +9,7 @@
 	{% for portfolio in site.data.sitetext[site.locale].portfolio.list %}
         <div class="col-lg-12">
           <h4 class="portfolio-heading">{{ portfolio.title | markdownify }}</h4>
-          {% if portfolio.desc %}<div class="text-muted">{{ portfolio.desc | markdownify }}</div>{% endif %}
+          {% if portfolio.desc %}<div class="text-muted; float-left;">{{ portfolio.desc | markdownify }}</div>{% endif %}
         </div>
 	{% endfor %}
 	      
