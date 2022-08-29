@@ -160,14 +160,6 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
-      - name: "Kyunghan Sin"
-        role: "B.S intern"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://sites.google.com/view/iwcl
-            icon: fas fa-globe
-          - url: https://instagram.com/kkyung_hi
-            icon: "fab fa-instagram"
 
   clients:
     section: clients
