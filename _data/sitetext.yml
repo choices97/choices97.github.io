@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     text: "In preparation / Submitted"
     list:
       - title: "**[submitted]**"
-        desc: "[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), <i> IEEE Transactions on Communications </i> (under major revision)"
+        desc: "[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), IEEE Transactions on Communications  (under major revision)"
       - title: "**[domestic]**"
         desc: "[dc1] **최은성**, 오민택, 최진석, &ldquo;보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주 <p style="color:DodgerBlue;"> (2022 KICS Summer, Best Paper Award) </p>"
     section: portfolio
