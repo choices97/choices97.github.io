@@ -93,8 +93,7 @@ en: &DEFAULT_EN
     list:
       - title: "**Journal Articles**"
       - subtitle: "[in preperation/submitted]"
-        desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Secrecy Rate Maximization for Satellite Commuication&rdquo;"
-        desc: "[s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), IEEE Transactions on Communications  (under major revision)"
+        desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Secrecy Rate Maximization for Satellite Commuication&rdquo; <br> [s1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://arxiv.org/abs/2207.09823), IEEE Transactions on Communications  (under major revision)"
       - subtitle: "[published/accepted]"
       - title: "**Conference papers**"
       - subtitle: "[domestic]"
