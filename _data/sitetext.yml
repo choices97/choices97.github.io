@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Wireless Communication"
-        desc: "Massive, Energy Efficient, <br> Secure  Communications"
+        desc: "Massive, Energy Efficient, <br> Secure Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for Communication"
