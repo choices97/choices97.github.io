@@ -95,7 +95,7 @@ en: &DEFAULT_EN
       - subtitle: "[in preperation/submitted]"
         desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Secrecy Rate Maximization for Satellite Commuication&rdquo;"
       - subtitle: "[published/accepted]"
-        desc: "[1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://ieeexplore.ieee.org/document/9973364/authors#authors), IEEE Transactions on Communications (accepted)"
+        desc: "[1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://ieeexplore.ieee.org/document/9973364), IEEE Transactions on Communications (accepted)"
       - title: "**Conference papers**"
       - subtitle: "[domestic]"
         desc: "[dc1] **최은성**, 오민택, 최진석, &ldquo;보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주 ([2022 KICS Summer, Best Paper Award](https://www.kics.or.kr/html/?pmode=BExcellentPapers&page=1&smode=view&seq=3639&searchValue=&searchTitle=strTitle))"
