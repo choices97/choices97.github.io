@@ -151,12 +151,20 @@ en: &DEFAULT_EN
           - url: https://instagram.com/gabriel_yoo__
             icon: "fab fa-instagram"
       - name: "Sangmin Lee"
-        role: "B.S intern"
+        role: "Combined M.S-Ph.D"
         image: assets/img/team/2.jpg
         social:
           - url: https://sites.google.com/view/iwcl
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
+            icon: "fab fa-instagram"
+      - name: "Minseong Kwon"
+        role: "Combined M.S-Ph.D"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://sites.google.com/view/iwcl
+            icon: fas fa-globe
+          - url: https://instagram.com/dontholiver
             icon: "fab fa-instagram"
       - name: "Soomin Bae"
         role: "B.S intern"
