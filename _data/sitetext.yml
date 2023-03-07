@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     people:
       - image: assets/img/eunsungchoi3.jpg
         name: "EUN SUNG CHOI"
-        info: "M.S student in IWCL, UNIST <br> (Combined M.S-Ph.D)"
+        info: "M.S student in SIC-X, UNIST <br> (Combined M.S-Ph.D)"
         email: "E-mail"
         emails: "eunsungchoi@unist.ac.kr"
         office: "Office"
@@ -39,18 +39,23 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "H.S.D in CBSH"
+        year: "Mar.2013 - Feb.2015"
+        desc: "Major : <br> In **Earth Science**"
+        image: assets/img/timeline/cbsh.jpg
+        alt:
       - title: "B.S in UNIST"
         year: "Mar.2015 - Feb.2022"
         desc: "Major : <br> In **Electrical Engineering** <br>Minor : <br> In **System Design&Control Engineering**"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "M.S in UNIST <br> (Combined M.S-Ph.D)"
+      - title: "M.S in UNIST"
         year: "Mar.2022 - Current"
-        desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [IWCL](https://sites.google.com/view/iwcl)"
+        desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sites.google.com/view/sic-x)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Near Future"
-        year: "2024"
+      - title: "Ph.D"
+        year: "Mar.2024-"
         desc: "In Preparation"
         image: assets/img/timeline/3.jpg
         alt: image alt text
@@ -60,7 +65,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        align: left
     end: "Be Part <br> of My <br> Life!"
 
   services:
@@ -112,7 +117,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Members of IWCL"
+    text: "Members of SIC-X"
     subtext: Intelligent Wireless Communications Lab.
     section: team
     people:
@@ -120,7 +125,7 @@ en: &DEFAULT_EN
         role: "Professor"
         image: assets/img/team/1.gif
         social:
-          - url: https://sites.google.com/view/iwcl
+          - url: https://sites.google.com/view/sic-x
             icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
@@ -156,7 +161,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/2.jpg
         social:
-          - url: https://sites.google.com/view/iwcl
+          - url: https://sites.google.com/view/sic-x
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
             icon: "fab fa-instagram"
@@ -164,7 +169,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/3.jpg
         social:
-          - url: https://sites.google.com/view/iwcl
+          - url: https://sites.google.com/view/sic-x
             icon: fas fa-globe
           - url: https://instagram.com/dontholiver
             icon: "fab fa-instagram"
@@ -172,7 +177,7 @@ en: &DEFAULT_EN
         role: "B.S intern"
         image: assets/img/team/3.jpg
         social:
-          - url: https://sites.google.com/view/iwcl
+          - url: https://sites.google.com/view/c
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -185,9 +190,9 @@ en: &DEFAULT_EN
       - title: "UNIST"
         url: https://www.unist.ac.kr
         logo: assets/img/clients/unist.jpg
-      - title: "IWCL"
-        url: https://sites.google.com/view/iwcl
-        logo: assets/img/clients/iwcl.jpg
+      - title: "SIC-X"
+        url: https://sites.google.com/view/sic-x
+        logo: assets/img/clients/SIC-X.jpg
       - title: "IEEE"
         url: https://ieeexplore.ieee.org/Xplore/home.jsp
         logo: assets/img/clients/ieee.jpg
