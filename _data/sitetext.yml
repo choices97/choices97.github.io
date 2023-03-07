@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     people:
       - image: assets/img/eunsungchoi3.jpg
         name: "EUN SUNG CHOI"
-        info: "M.S student in SIC-X, UNIST <br> (Combined M.S-Ph.D)"
+        info: "M.S student in SIC-X, UNIST"
         email: "E-mail"
         emails: "eunsungchoi@unist.ac.kr"
         office: "Office"
