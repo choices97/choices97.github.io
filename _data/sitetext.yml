@@ -42,7 +42,7 @@ en: &DEFAULT_EN
       - title: "H.S.D in CBSH"
         year: "Mar.2013 - Feb.2015"
         desc: "Major : <br> In **Earth Science**"
-        image: assets/img/timeline/cbsh.jpg
+        image: assets/img/timeline/cbsh.png
         alt:
       - title: "B.S in UNIST"
         year: "Mar.2015 - Feb.2022"
