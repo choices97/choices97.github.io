@@ -118,7 +118,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Members of SIC-X"
-    subtext: Intelligent Wireless Communications Lab.
+    subtext: Signal, Information, and Communications for Everything.
     section: team
     people:
       - name: "Jinseok Choi"
