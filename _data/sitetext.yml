@@ -127,8 +127,8 @@ en: &DEFAULT_EN
         social:
           - url: https://sites.google.com/view/sic-x
             icon: fas fa-globe
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://instagram.com
+            icon: "fab fa-instagram"
       - name: "Mintaek Oh"
         role: "Combined M.S-Ph.D"
         image: assets/img/team/4.jpg
@@ -164,22 +164,6 @@ en: &DEFAULT_EN
           - url: https://sites.google.com/view/sic-x
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
-            icon: "fab fa-instagram"
-      - name: "Minseong Kwon"
-        role: "Combined M.S-Ph.D"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://sites.google.com/view/sic-x
-            icon: fas fa-globe
-          - url: https://instagram.com/dontholiver
-            icon: "fab fa-instagram"
-      - name: "Soomin Bae"
-        role: "B.S intern"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://sites.google.com/view/c
-            icon: fas fa-globe
-          - url: https://instagram.com
             icon: "fab fa-instagram"
 
   clients:
