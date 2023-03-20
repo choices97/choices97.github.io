@@ -98,7 +98,8 @@ en: &DEFAULT_EN
     list:
       - title: "**Journal Articles**"
       - subtitle: "[in preparation/submitted]"
-        desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Secrecy Rate Maximization for Satellite Commuication&rdquo;"
+        desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Secrecy Rate Maximization for Satellite Commuicationc"
+      - desc: "[s1] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi, &ldquo;Max-Min Fairness Precoding for Physical Layer Security  with Partial Channel Knowledge&rdquo;, IEEE Wireless Communications Letter (submitted)"
       - subtitle: "[published/accepted]"
         desc: "[1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://ieeexplore.ieee.org/document/9973364), IEEE Transactions on Communications (accepted)"
       - title: "**Conference papers**"
