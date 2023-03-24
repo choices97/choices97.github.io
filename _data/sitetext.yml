@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "M.S in UNIST"
         year: "Mar.2022 - Current"
-        desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sites.google.com/view/sic-x)"
+        desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sic-x.kaist.ac.kr/home)"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Ph.D"
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
         role: "Professor"
         image: assets/img/team/1.gif
         social:
-          - url: https://sites.google.com/view/sic-x
+          - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
           - url: https://instagram.com
             icon: "fab fa-instagram"
@@ -162,7 +162,7 @@ en: &DEFAULT_EN
         role: "Combined M.S-Ph.D"
         image: assets/img/team/2.jpg
         social:
-          - url: https://sites.google.com/view/sic-x
+          - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
             icon: "fab fa-instagram"
@@ -176,7 +176,7 @@ en: &DEFAULT_EN
         url: https://www.unist.ac.kr
         logo: assets/img/clients/unist.jpg
       - title: "SIC-X"
-        url: https://sites.google.com/view/sic-x
+        url: https://sic-x.kaist.ac.kr/home
         logo: assets/img/clients/SIC-X.jpg
       - title: "IEEE"
         url: https://ieeexplore.ieee.org/Xplore/home.jsp
