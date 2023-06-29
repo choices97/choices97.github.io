@@ -50,13 +50,13 @@ en: &DEFAULT_EN
         image: assets/img/timeline/1.jpg
         alt:
       - title: "M.S in UNIST"
-        year: "Mar.2022 - Current"
+        year: "Mar.2022 - Feb.2024"
         desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sic-x.kaist.ac.kr/home)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Ph.D"
-        year: "Mar.2024-"
-        desc: "In Preparation"
+      - title: "Ph.D in "
+        year: "Mar.2024 - TBD"
+        desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sic-x.kaist.ac.kr/home)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Far Future"
