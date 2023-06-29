@@ -104,10 +104,10 @@ en: &DEFAULT_EN
       - desc: "[2] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Physical Layer Security  with Partial Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10149521), IEEE Wireless Communications Letter, early access, 2023"
       - title: "**Conference papers**"
       - subtitle: "[domestic]"
-        desc: "[dc1] **최은성**, 오민택, 최진석, &ldquo;보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주 ([2022 KICS Summer, Best Paper Award](https://www.kics.or.kr/html/?pmode=BExcellentPapers&page=1&smode=view&seq=3639&searchValue=&searchTitle=strTitle))"
+        desc: "[dc1] **최은성**, 오민택, 최진석, [&ldquo;보안 커뮤니케이션을 위한 프리코딩 및 인공 노이즈의 공동 디자인 프레임워크&rdquo;](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2022s/abs/0183.pdf), 한국통신학회 하계종합학술대회 (KICS), Jun. 22-24, 2022, 제주 ([2022 KICS Summer, Best Paper Award](https://www.kics.or.kr/html/?pmode=BExcellentPapers&page=1&smode=view&seq=3639&searchValue=&searchTitle=strTitle))"
       - desc: "[dc2] **최은성**, 최진석, 박정훈, 이준세, 이남윤, &ldquo;다운링크 위성 네트워크에서의 쉐도잉을 고려한 커버리지 분석&rdquo;, 통신 정보 합동 학술대회 (JCCI), Apr. 26-28, 2023, 여수"
       - subtitle: "[international]"
-        desc: "[c1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, &ldquo;Joint and Simultaneous Optimization of Artificial Noise-aided Precoding for Secure Communications&rdquo;, IEEE Global Commun. Conf. (GLOBECOM), Dec 4-8, 2023, Kuala Lumpur, Malaysia (submitted)"
+        desc: "[c1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, &ldquo;Joint and Simultaneous Optimization of Artificial Noise-aided Precoding for Secure Communications&rdquo;, IEEE Global Communication Conference (GLOBECOM), Dec 4-8, 2023, Kuala Lumpur, Malaysia (submitted)"
     section: portfolio
     closebutton: "Close Publication"
     
