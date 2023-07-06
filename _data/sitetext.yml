@@ -118,7 +118,7 @@ en: &DEFAULT_EN
     closebutton: "Close News"
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "AMAZING TEAM"
     text: "Members of SIC-X"
     subtext: Signal, Information, and Communications for Everything.
     section: team
