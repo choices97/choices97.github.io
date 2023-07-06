@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "ABOUT ME"
     text: "Informations"
     people:
-      - image: assets/img/eunsungchoi3.jpg
+      - image: assets/img/eunsungchoi4.jpg
         name: "EUN SUNG CHOI"
         info: "M.S student in SIC-X, UNIST"
         email: "E-mail"
