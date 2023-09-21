@@ -54,13 +54,13 @@ en: &DEFAULT_EN
         desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sic-x.kaist.ac.kr/home)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Ph.D in "
-        year: "Mar.2024 - TBD"
+      - title: "Ph.D in KAIST"
+        year: "Mar.2024 - Feb.2028"
         desc: "In Electrical Engineering : <br> Wireless Communications <br> Advisor : Jinseok Choi of [SIC-X](https://sic-x.kaist.ac.kr/home)"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/KAIST2.jpg
         alt: image alt text
       - title: "Far Future"
-        year: "2028"
+        year: "Mar.2028 - TBD"
         desc: "In Preparation"
         image: assets/img/timeline/4.jpg
         alt:
