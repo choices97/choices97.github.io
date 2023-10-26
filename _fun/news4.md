@@ -11,9 +11,9 @@ comments: true
 alt: Third news
 
 caption:
-  title: ACTIVITIES
+  title: VTC 2023
   subtitle: 2022/04/01
-  thumbnail: assets/img/fun/news3_thumbnail.gif
+  thumbnail: assets/img/fun/news4_thumbnail.jpg
 ---
 Contents will be updated soon.
 
