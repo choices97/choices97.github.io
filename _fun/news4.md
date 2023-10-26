@@ -1,6 +1,6 @@
 ---
-title: THIRD NEWS
-subtitle: 2022/04/01
+title: FOURTH NEWS
+subtitle: 2023/07/26
 image1: assets/img/fun/04_1_full.png
 discription1: Firenze, Italy
 image2: assets/img/fun/04_2_full.png
@@ -15,11 +15,11 @@ caption:
   subtitle: 2023/07/26 ~ 2023/07/28
   thumbnail: assets/img/fun/news4_thumbnail.jpg
 ---
-Contents will be updated soon.
+Vehicular Technology Conference at Firenze, Italy (2023/07/26 ~ 2023/07/28)
 
 
 {:.list-inline}
-- Date: April 2022
-- Client: Me
-- Category: Fun
+- Date: July 2023
+- Client: SIC-X
+- Category: Conference
 
