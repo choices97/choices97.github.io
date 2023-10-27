@@ -22,6 +22,7 @@ caption:
 
 **Visited Places** <br>
 Cebu <br>
+- Ocean Blue Scuba Diving Resort
 - Barwoo
 
 Bohol <br>
