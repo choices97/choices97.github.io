@@ -13,7 +13,7 @@ alt: Fifth news
 caption:
   title: ICTC 2023
   subtitle: 2023/10/11 ~ 2023/10/13
-  thumbnail: assets/img/fun/news5_thumbnail.gif
+  thumbnail: assets/img/fun/news5_thumbnail_desolve.gif
 ---
 International Conference on ICT Convergence, Jeju Island <br> (2023/10/11 ~ 2023/10/13) <br>
 
