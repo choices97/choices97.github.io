@@ -15,7 +15,7 @@ caption:
   subtitle: 2021/12/27
   thumbnail: assets/img/fun/news1_thumbnail.jpg
 ---
-Recommand places!! : <br>
+Visitedd places : <br>
 카페더콘테나
 메이즈랜드
 제주 아쿠아리움
