@@ -1,7 +1,7 @@
 ---
 title: AWESOME MIX
 subtitle: VOL. 1
-image1: assets/img/fun/news2_1.jpg
+image1: assets/img/fun/news2_thumbnail.gif
 discription1: AWESOME MIX
 image2: assets/img/fun/1x1.jpg
 discription2: .
