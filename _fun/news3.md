@@ -15,11 +15,24 @@ caption:
   subtitle: 2023/02/26 ~ 2023/03/02
   thumbnail: assets/img/fun/news3_thumbnail.gif
 ---
-Contents will be updated soon.
+**Scuba Diving Log**
+- Olango Island, Cebu (3 Tanks)
+- Nalusuan Island, Cebu (3 Tanks)
+- Hilutungan Island, Cebu (3 Tanks)
+
+**Visited Places** <br>
+Cebu <br>
+- Barwoo
+
+Bohol <br>
+- Chocolate hills with ATV
+- Lila, whale shark tour
+- Henann Resort Alona Beach
+- Tarsier (Carlito syrichta)
 
 
 {:.list-inline}
-- Date: March 2022
+- Date: March 2023
 - Companions: Me and My Friends
 - Category: Fun
 
