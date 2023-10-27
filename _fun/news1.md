@@ -2,16 +2,16 @@
 title: TRAVEL - JEJU island
 subtitle: 2022/12/27
 image1: assets/img/fun/news1_1.jpg
-discription1: Attractive places
+discription1: Visited places
 image2: assets/img/fun/news1_2.jpg
-discription2: Unique foods
+discription2: ist of food eaten
 image3: assets/img/fun/news1_3.jpg
 discription3: Awsome moments
 alt: First news
 comments: true
 
 caption:
-  title: TRAVEL
+  title: TRAVEL - JEJU
   subtitle: 2021/12/27
   thumbnail: assets/img/fun/news1_thumbnail.jpg
 ---
@@ -30,5 +30,5 @@ Visitedd places : <br>
 
 {:.list-inline}
 - Date: Dec 2021
-- Traver: Me & My friends
+- Companions: Me & My friends
 - Category: Fun
