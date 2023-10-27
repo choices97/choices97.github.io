@@ -1,6 +1,6 @@
 ---
 title: VTC 2023
-subtitle: 2023/06/26 ~ 2023/06/28
+subtitle: 2023/06/19 ~ 2023/06/23
 image1: assets/img/fun/04_1_full.png
 discription1: Firenze, Italy
 image2: assets/img/fun/04_2_full.png
@@ -12,10 +12,10 @@ alt: Fourth news
 
 caption:
   title: VTC 2023
-  subtitle: 2023/06/26 ~ 2023/06/28
+  subtitle: 2023/06/19 ~ 2023/06/23
   thumbnail: assets/img/fun/news4_thumbnail.jpg
 ---
-Vehicular Technology Conference at Firenze, Italy (2023/07/26 ~ 2023/07/28)
+Vehicular Technology Conference at Firenze, Italy (2023/06/19 ~ 2023/06/23)
 
 Visited places : <br>
 **Regione Toscana**
