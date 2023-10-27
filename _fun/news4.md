@@ -17,9 +17,30 @@ caption:
 ---
 Vehicular Technology Conference at Firenze, Italy (2023/07/26 ~ 2023/07/28)
 
+Visited places :
+**Regione Toscana**
+- Firenze
+Cattedrale di Santa Mario del Fiore, Piazzale Michelangelo, Ponte Vecchio
+(Firenze Santa Mario Novella, Osteria dell'Osso)
+
+- Pisa
+Torre di Pisa, Piazza dei Miracoli, Duomo di Pisa
+
+- San gimignano
+(Torre Grossa San Gimignano, Chianti Wine Vinyards)
+
+- Siena
+(Palazzo Publico)
+
+**Rome**
+Colosseum, Fontana di Trevi, Pantheon
+(Arco de Constantino, Foro Romano, Monumento a Vittorio Emanuele II)
+
+**Abu Dhabi**, United Arab Emirates
+Sheikh Zayed Grand Mosque
 
 {:.list-inline}
 - Date: July 2023
-- Client: SIC-X
+- Companions: SIC-X
 - Category: Conference
 
