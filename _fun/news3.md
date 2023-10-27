@@ -30,9 +30,11 @@ Bohol <br>
 - Henann Resort Alona Beach
 - Tarsier (Carlito syrichta)
 
+<br>
+[For more information](https://www.instagram.com/uni.dive/)
 
 {:.list-inline}
 - Date: March 2023
-- Companions: Me and My Friends
+- Companions: SHAMU
 - Category: Fun
 
