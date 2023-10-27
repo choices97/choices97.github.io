@@ -135,7 +135,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com
             icon: "fab fa-instagram"
       - name: "Mintaek Oh"
-        role: "Combined M.S-Ph.D"
+        role: "Ph.D Student"
         image: assets/img/team/4.jpg
         social:
           - url: https://sites.google.com/view/ohmin95
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com
             icon: "fab fa-instagram"
       - name: "Seokjun Park"
-        role: "Combined M.S-Ph.D"
+        role: "Ph.D Student"
         image: assets/img/team/3.jpg
         social:
           - url: https://sites.google.com/view/seokjunpark/education?authuser=0
@@ -153,7 +153,7 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/seok___j.u.n/
             icon: "fab fa-instagram"
       - name: "Seunghyeong Yoo"
-        role: "Combined M.S-Ph.D"
+        role: "M.S Student"
         image: assets/img/team/4.jpg
         social:
           - url: https://seunghy1468.github.io/
@@ -163,7 +163,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com/gabriel_yoo__
             icon: "fab fa-instagram"
       - name: "Sangmin Lee"
-        role: "Combined M.S-Ph.D"
+        role: "M.S Student"
         image: assets/img/team/2.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
@@ -176,12 +176,16 @@ en: &DEFAULT_EN
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
+          - url: https://instagram.com/burger_coke_
+            icon: "fab fa-instagram"
       - name: "Jiwon Sung"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
+          - url: https://instagram.com/lukasung_
+            icon: "fab fa-instagram"
             
   clients:
     section: clients
