@@ -11,7 +11,7 @@ comments: true
 alt: Second news
 
 caption:
-  title: Awesom Mix
+  title: AWESOME MIX
   subtitle: 2022/01/15
   thumbnail: assets/img/fun/news2_thumbnail.gif
 ---
