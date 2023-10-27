@@ -13,7 +13,7 @@ alt: Fourth news
 caption:
   title: VTC 2023
   subtitle: 2023/06/19 ~ 2023/06/23
-  thumbnail: assets/img/fun/news4_thumbnail.jpg
+  thumbnail: assets/img/fun/news4_thumbnail_desolve.gif
 ---
 Vehicular Technology Conference at Firenze, Italy (2023/06/19 ~ 2023/06/23)
 
