@@ -21,18 +21,18 @@ caption:
 - Hilutungan Island, Cebu (3 Tanks)
 
 **Visited Places** <br>
-Cebu <br>
+Cebu
 - Ocean Blue Scuba Diving Resort
 - Barwoo
 
-Bohol <br>
+Bohol
 - Chocolate hills with ATV
 - Lila, whale shark tour
 - Henann Resort Alona Beach
 - Tarsier (Carlito syrichta)
 
 <br>
-[For more information](https://www.instagram.com/uni.dive/)
+[More Information](https://www.instagram.com/uni.dive/)
 
 {:.list-inline}
 - Date: March 2023
