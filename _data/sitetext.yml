@@ -230,6 +230,8 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://github.com/choices97
         icon: "fab fa-github"
+      - url: https://www.linkedin.com/in/eunsung-choi-86818823b/
+        icon: "fab fa-linkedin"
 
 en-US:
   <<: *DEFAULT_EN
