@@ -11,9 +11,9 @@ comments: true
 alt: Second news
 
 caption:
-  title: CAFE
+  title: Awesom Mix
   subtitle: 2022/01/15
-  thumbnail: assets/img/fun/news2_thumbnail.jpg
+  thumbnail: assets/img/fun/news2_thumbnail.gif
 ---
 contents will be updated soon.
 
