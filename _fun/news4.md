@@ -33,7 +33,7 @@ Torre di Pisa, Piazza dei Miracoli, Duomo di Pisa
 (Palazzo Publico)
 
 **Rome** <br>
-- Colosseum, Fontana di Trevi, Pantheon
+- Colosseum, Fontana di Trevi, Pantheon <br>
 (Arco de Constantino, Foro Romano, Monumento a Vittorio Emanuele II)
 
 **Abu Dhabi**, United Arab Emirates <br>
