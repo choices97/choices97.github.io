@@ -2,7 +2,7 @@
 title: ICTC 2023
 subtitle: 2023/10/11 ~ 2023/10/13
 image1: assets/img/fun/05_1_full.png
-discription1: ICTC 2023, 오설록, 카페 새
+discription1: ICTC 2023, 오설록, 카페 새빌
 image2: assets/img/fun/05_2_full.png
 discription2: Lotte Hotel, Jeju
 image3: assets/img/fun/05_3_full.png
