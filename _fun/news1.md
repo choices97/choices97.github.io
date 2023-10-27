@@ -13,7 +13,7 @@ comments: true
 caption:
   title: TRAVEL - JEJU
   subtitle: 2021/12/27 ~ 2021/12/31
-  thumbnail: assets/img/fun/news1_thumbnail.jpg
+  thumbnail: assets/img/fun/news1_thumbnail_desolve.gif
 ---
 **Visited places** : <br>
 - 카페더콘테나
