@@ -15,7 +15,7 @@ caption:
   subtitle: 2023/10/11 ~ 2023/10/13
   thumbnail: assets/img/fun/news5_thumbnail.jpg
 ---
-International Conference on ICT Convergence, Jeju Island (2023/10/11 ~ 2023/10/13)
+International Conference on ICT Convergence, Jeju Island <br> (2023/10/11 ~ 2023/10/13) <br>
 
 Visited places : <br>
 - 롯데호텔 제주
