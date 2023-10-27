@@ -17,7 +17,7 @@ caption:
 ---
 Vehicular Technology Conference at Firenze, Italy (2023/06/19 ~ 2023/06/23)
 
-Visited places : <br>
+**Visited places** : <br> <br>
 **Regione Toscana**
 - Firenze <br>
 Cattedrale di Santa Mario del Fiore, Piazzale Michelangelo, Ponte Vecchio
@@ -37,7 +37,7 @@ Torre di Pisa, Piazza dei Miracoli, Duomo di Pisa
 (Arco de Constantino, Foro Romano, Monumento a Vittorio Emanuele II)
 
 **Abu Dhabi**, United Arab Emirates <br>
-Sheikh Zayed Grand Mosque
+- Sheikh Zayed Grand Mosque
 
 {:.list-inline}
 - Date: June 2023
