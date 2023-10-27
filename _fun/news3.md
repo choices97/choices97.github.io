@@ -2,7 +2,7 @@
 title: THIRD NEWS
 subtitle: 2022/04/01
 image1: assets/img/fun/03-full.jpg
-discription1: Write discription here
+discription1: Write description here
 image2: assets/img/fun/1x1.jpg
 discription2: .
 image3: assets/img/fun/1x1.jpg
