@@ -18,7 +18,7 @@ url    : "choices97.github.io" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Eunsung Choi
-email      : eunsungchoi@unist.ac.kr #this is also the email contact forms will go to
+email      : eus.choi@kaist.ac.kr #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Eunsung Choi
 # logo:     #optional, defaults to site title
