@@ -58,5 +58,5 @@ defaults:
     values:
       author: "C.S. Rhymes"
       layout: post
-      image: /img/home.jpg
+      image: /assets/img/portfolio/01-thumbnail.jpg
       show_sidebar: true
