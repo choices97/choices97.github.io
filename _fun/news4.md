@@ -37,7 +37,7 @@ Torre di Pisa, Piazza dei Miracoli, Duomo di Pisa
 (Arco de Constantino, Foro Romano, Monumento a Vittorio Emanuele II)
 
 **Abu Dhabi**, United Arab Emirates <br>
-- Sheikh Zayed Grand Mosque
+- Sheikh Zayed Grand Mosque <br>
 
 {:.list-inline}
 - Date: June 2023
