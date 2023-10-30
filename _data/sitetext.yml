@@ -192,9 +192,9 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "UNIST"
-        url: https://www.unist.ac.kr
-        logo: assets/img/clients/unist.jpg
+      - title: "KAIST"
+        url: https://www.kaist.ac.kr
+        logo: assets/img/clients/KAIST_logo.png
       - title: "SIC-X"
         url: https://sic-x.kaist.ac.kr/home
         logo: assets/img/clients/SIC-X.jpg
