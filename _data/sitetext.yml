@@ -74,14 +74,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Wireless Communication"
-        desc: "Massive, Energy Efficient, <br> Secure Communications"
+        desc: "Fair, Secure <br> ISAC Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for Communication"
         icon: fab fa-connectdevelop
-      - title: "Stock"
-        desc: "Stock Trading"
-        icon: fas fa-chart-line
+      - title: "Running"
+        desc: "Jogging, Cardio"
+        icon: fas fa-running
       - title: "Swimming & Diving"
         desc: "Freestyle : 28.98s, Butterfly :31.66s <br> Lifeguard (Red cross), <br> [Scuba Diving](https://www.instagram.com/uni.dive/) (SDI Advanced Adventure), <br> [Freediving](https://www.instagram.com/uni.dive/) (RAID Lv.2)"
         icon: fas fa-swimmer
