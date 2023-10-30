@@ -42,21 +42,21 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme 
-  # - jekyll-sitemap
-  # - jekyll-paginate
-  # - jekyll-feed
-  # - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# paginate: 6
-# paginate_path: "/page:num"
+paginate: 6
+paginate_path: "/page:num"
 
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       # author: "C.S. Rhymes"
-#       layout: post
-#       image: /assets/img/portfolio/01-thumbnail.jpg
-#       show_sidebar: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      # author: "C.S. Rhymes"
+      layout: post
+      image: /assets/img/portfolio/01-thumbnail.jpg
+      show_sidebar: true
