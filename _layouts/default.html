@@ -2,7 +2,9 @@
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
 
   {% include head.html %}
-
+  {% unless page.hide_hero %}
+    {% include hero.html %}
+  {% endunless %}
   <body id="page-top">
 
       {{ content }}
