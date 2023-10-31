@@ -58,6 +58,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/page:num"
+permalink: /:title.html
 # defaults:
 #   - scope:
 #     path: ""
