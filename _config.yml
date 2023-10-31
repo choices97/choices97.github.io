@@ -47,19 +47,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# paginate: 6
-# paginate_path: "/page:num"
-
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       # author: "C.S. Rhymes"
-#       layout: post
-#       image: /assets/img/portfolio/01-thumbnail.jpg
-#       show_sidebar: true
 gems:
     - jekyll-paginate-v2
 
@@ -69,3 +56,17 @@ pagination:
     limit: 0
     sort_field: "date"
     sort_reverse: true
+
+paginate: 6
+paginate_path: "/page:num"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      # author: "C.S. Rhymes"
+      layout: post
+      image: /assets/img/portfolio/01-thumbnail.jpg
+      show_sidebar: true
