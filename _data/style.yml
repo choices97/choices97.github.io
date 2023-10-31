@@ -8,4 +8,5 @@ primary-color: "#54bfff"
 
 #Image Customization
 header-image: "../img/header-bg2.jpg"
+header-postimage: "../img/map-image.png"
 contact-image: "../img/map-image.png"
