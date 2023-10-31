@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: post
 title: Second Post
 image: /assets/img/portfolio/02-thumbnail.jpg
 caption:
