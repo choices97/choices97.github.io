@@ -9,7 +9,7 @@
     <div class="row">
 	{% for project in site.posts %}
       <div class="col-md-4 col-sm-6 posts-item">
-        <a class="posts-link" href^="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
+        <a class="posts-link" href="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
           <div class="posts-hover">
             <div class="posts-hover-content">
               <i class="{{ site.data.style.posts-icon | default: "fas fa-plus fa-3x" }}"></i>
