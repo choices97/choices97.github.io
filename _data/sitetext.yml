@@ -122,9 +122,9 @@ en: &DEFAULT_EN
     closebutton: "Close News"
 
   posts:
-  title: "POST"
-  text: "Personal News & Fun Things"
-  section: posts
+    title: "POST"
+    text: "BLOG POSTS"
+    section: posts
 
   team:
     title: "AMAZING TEAM"
