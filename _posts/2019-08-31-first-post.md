@@ -1,6 +1,7 @@
 --- 
 layout : post
 title: First Post
+image: /assets/img/header-bg2.jpg
 author: Eunsung Choi
 intro: This is the introduction text for this post. It appears large and bold at the top of the post
 intro_image: /assets/img/header-bg2.jpg
