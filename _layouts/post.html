@@ -15,7 +15,7 @@ document.getElementById("page-top").className="bg-light";
  <header class="masthead">
     <div class="container">
       <div class="intro-text">
-        <div class="intro-lead-in">{{ site.posts.title | markdownify }}</div>
+        <div class="intro-lead-in">{{ page.title | markdownify }}</div>
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
 	  {%- endif -%}
@@ -28,8 +28,8 @@ document.getElementById("page-top").className="bg-light";
   <div class="row">
     <div class="col-lg-2"> </div>
       <div class="col-lg-8 text-center">
-	<h2 class="text-uppercase">{{ site.posts.title }}</h2>
-        <p class="item-intro text-muted">{{ site.posts.subtitle }}</p>
+	<h2 class="text-uppercase">{{ page.title }}</h2>
+        <p class="item-intro text-muted">{{ page.subtitle }}</p>
 	<div align="justify">
 	  <p align="justify">{{ content }}</p>
 	</div>
