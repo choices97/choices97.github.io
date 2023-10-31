@@ -1,4 +1,4 @@
-<div class="card">
+<!-- <div class="card">
     <div class="card-image">
         <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" width="100%">
     </div>
@@ -14,30 +14,39 @@
             <a href="{{ site.baseurl }}{{ post.url }}" class="button is-dark is-fullwidth">Read more</a>
         </div>
     </div>
-</div>
+</div> -->
 
-<!-- {% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %} -->
+<!-- Post Grid -->
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].fun.section | default: "fun" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].fun.title | markdownify | default: "Fun" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].fun.text | markdownify }}</h3>
+      </div>
+    </div>
+    <div class="row">
+	{% for project in site.fun %}
+      <div class="col-md-4 col-sm-6 fun-item">
+        <a class="fun-link" data-toggle="modal" href="#fun{{ forloop.index }}">
+          <div class="fun-hover">
+            <div class="fun-hover-content">
+              <i class="{{ site.data.style.fun-icon | default: "fas fa-plus fa-3x" }}"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+        </a>
+        <div class="fun-caption">
+          <h4>{{ project.caption.title }}</h4>
+          <p class="text-muted">{{ project.caption.subtitle }}</p>
+        </div>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+<a href="{{ site.baseurl }}{{ post.url }}">
+    <p class="title is-4">{{ post.title}}</p>
+</a>
+<!-- {% include modals_fun.html %} -->
