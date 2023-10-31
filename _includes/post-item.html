@@ -30,7 +30,7 @@
 	{% for project in site.posts %}
       <div class="col-md-4 col-sm-6 posts-item">
 	<div class="buttons">
-        <a class="posts-link" href="{{ site.baseurl }}{{ post[forloop.index - 1].url">
+        <a class="posts-link" data-toggle="buttons" href="{{ site.baseurl }}{{ posts[forloop.index + 1].url">
           <div class="posts-hover">
             <div class="posts-hover-content">
               <i class="{{ site.data.style.posts-icon | default: "fas fa-plus fa-3x" }}"></i>
