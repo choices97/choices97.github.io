@@ -1,6 +1,7 @@
 --- 
 layout : post
-title: First Post
+title: FIRST POST
+subtitle: 2021/12/27 ~ 2021/12/31
 image: /assets/img/header-bg2.jpg
 author: Eunsung Choi
 intro: This is the introduction text for this post. It appears large and bold at the top of the post
