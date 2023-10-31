@@ -12,17 +12,26 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
-<!-- <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">{{ posts.title }}</h2>
-</div> -->
+ <header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+	  {%- if site.data.sitetext[site.locale].header.title -%}
+        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+	  {%- endif -%}
+	  {%- if site.data.sitetext[site.locale].header.text -%}
+        <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+	  {%- endif -%}
+      </div>
+    </div>
+  </header>
 
 
 <div class="container" id="pagecontainer">
   <div class="row">
     <div class="col-lg-2"> </div>
       <div class="col-lg-8 text-center">
-	<h2 class="text-uppercase">{{ project.title }}</h2>
-        p class="item-intro text-muted">{{ project.subtitle }}</p>
+	<h2 class="text-uppercase">{{ posts.title }}</h2>
+        <p class="item-intro text-muted">{{ posts.caption.subtitle }}</p>
 	<div align="justify">
 	  <p align="justify">{{ content }}</p>
 	</div>
