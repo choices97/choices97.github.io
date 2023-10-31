@@ -15,9 +15,7 @@ document.getElementById("page-top").className="bg-light";
  <header class="masthead">
     <div class="container">
       <div class="intro-text">
-	  {%- if site.posts.project[site.locale].title -%}
-        <div class="intro-lead-in">{{ site.posts.project[site.locale].title | markdownify }}</div>
-	  {%- endif -%}
+        <div class="intro-lead-in">{{ site.posts.project.title | markdownify }}</div>
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
 	  {%- endif -%}
