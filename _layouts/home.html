@@ -9,16 +9,16 @@ comments: true
 {% include services.html %}
 {% include portfolio_grid.html %}
 {% include fun_grid.html %}
-<!-- <div class="columns is-multiline">
+<div class="columns is-multiline">
     {% assign post_width = "6|6|12|4|4|4" | split: "|" %}
     {% for post in paginator.posts limit:6 %}
     <div class="column is-{{ post_width[forloop.index0] }}">
         {% include post-item.html %}
     </div>
     {% endfor %}
-</div> -->
+</div>
 
-{% raw %}{% if paginator.total_pages > 1 %}
+<!-- {% raw %}{% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
@@ -43,7 +43,7 @@ comments: true
     {% endif %}
   </div>
   {% endif %}
-{% endif %}{% endraw %}
+{% endif %}{% endraw %} -->
 
 {% include team.html %}
 {% include clients.html %}
