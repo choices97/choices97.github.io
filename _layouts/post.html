@@ -12,29 +12,53 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+
+{% if page.intro %}
+<div class="intro">
+    <div class="columns is-centered">
+        {% if page.intro_image %}
+        <div class="column is-8-desktop is-6-tablet">
+            <figure class="image {% if page.intro_image_ratio %} {{ page.intro_image_ratio }} {% else %} is-16by9 {% endif %}">
+                <img src="{{ page.intro_image | prepend: site.baseurl }}" alt="{{ page.title }}" />
+            </figure>
+        </div>
+        {% endif %}
+        <div class="column is-4-desktop is-6-tablet">
+            <p class="title is-1">{{ page.intro }}</p>
+        </div>
+    </div>
+</div>
+{% endif %}
+
 <div class="container" id="pagecontainer">
 {{ content }}
 </div>
 
 
-<div id="disqus_thread"></div>
-<script>
-  /**
-  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-  
-  var disqus_config = function () {
-  this.page.url = "https://choices97.github.io/{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = "{{ page.id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-  };
-  
-  (function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://choices97.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-{% include post-item.html %}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-2"> </div>
+      <div class="col-lg-8 text-center">
+        
+              <div id="disqus_thread"></div>
+              <script>
+                  /**
+                  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+                  
+                  var disqus_config = function () {
+                  this.page.url = "https://choices97.github.io/{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+                  this.page.identifier = "{{ page.id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                  };
+                  
+                  (function() { // DON'T EDIT BELOW THIS LINE
+                  var d = document, s = d.createElement('script');
+                  s.src = 'https://choices97.disqus.com/embed.js';
+                  s.setAttribute('data-timestamp', +new Date());
+                  (d.head || d.body).appendChild(s);
+                  })();
+              </script>
+              <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        
+      </div>
+    </div>
