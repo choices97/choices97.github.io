@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: First Post
 image: /assets/img/portfolio/01-thumbnail.jpg
 caption:
