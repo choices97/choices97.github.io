@@ -30,7 +30,7 @@
 	{% for project in site.posts %}
       <div class="col-md-4 col-sm-6 posts-item">
 	<div class="buttons">
-        <a class="posts-link" href="{{ site.baseurl }}{{ post.url }}">
+        <a class="posts-link" href="{{ site.baseurl }}{{ post.url }}#p{{ forloop.index }}">
 	</div>
           <div class="posts-hover">
             <div class="posts-hover-content">
