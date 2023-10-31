@@ -1,7 +1,7 @@
 --- 
 layout : post
 title: First Post
-image: /assets/img/portfolio/01-thumbnail.jpg
+image: /assets/img/header-bg2.jpg
 caption:
   title: TRAVEL - JEJU
   subtitle: 2021/12/27 ~ 2021/12/31
