@@ -7,7 +7,7 @@ caption:
   subtitle: VOL. 1-3
   thumbnail: /assets/img/fun/news2_thumbnail.gif
 ---
-
+<br><br>
 **AWESOME MIX** <br>
 
 **Vol.1** <br>
