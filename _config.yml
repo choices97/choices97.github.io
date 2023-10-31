@@ -43,19 +43,18 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme 
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
 
-gems:
-    - jekyll-paginate-v2
 
-pagination:
-    enabled: true
-    per_page: 2
-    limit: 0
-    sort_field: "date"
-    sort_reverse: true
+
+# pagination:
+#     enabled: true
+#     per_page: 2
+#     limit: 0
+#     sort_field: "date"
+#     sort_reverse: true
 
 paginate: 6
 paginate_path: "/page:num"
