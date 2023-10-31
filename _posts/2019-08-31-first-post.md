@@ -2,18 +2,14 @@
 layout : post
 title: FIRST POST
 subtitle: 2021/12/27 ~ 2021/12/31
-image: /assets/img/header-bg2.jpg
 author: Eunsung Choi
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /assets/img/header-bg2.jpg
-intro_image_ratio: is-16by9
 caption:
   title: TRAVEL - JEJU
   subtitle: 2021/12/27 ~ 2021/12/31
   thumbnail: /assets/img/fun/news1_thumbnail_desolve.gif
 ---
 
-**제주도 여행 포스트**
+**제주도 여행 포스트** <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/news1_1.jpg" alt='absolute' >
 IMAGE 1 <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/news1_2.jpg" alt='absolute'>
