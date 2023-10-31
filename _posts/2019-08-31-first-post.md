@@ -18,7 +18,7 @@ caption:
 IMAGE 1
 <img data-action="zoom" src='{{ "/assets/img/fun/news1_2.jpg" }} ' alt='absolute'>
 IMAGE 2
-<img data-action="zoom" src='{{ "/assets/img/fun/news1_4.jpg" }} ' alt='absolute'>
+<img data-action="zoom" src='{{ "/assets/img/fun/news1_3.jpg" }} ' alt='absolute'>
 IMAGE 3 <br>
 **Visited places** : <br>
 - 카페더콘테나
