@@ -121,6 +121,11 @@ en: &DEFAULT_EN
     section: fun
     closebutton: "Close News"
 
+  posts:
+  title: "POST"
+  text: "Personal News & Fun Things"
+  section: posts
+
   team:
     title: "AMAZING TEAM"
     text: "Members of SIC-X"
