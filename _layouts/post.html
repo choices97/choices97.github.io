@@ -12,9 +12,10 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
- <div class="card-image">
-        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" width="100%">
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">{{ page.title }}</h2>
 </div>
+
 
 <div class="container" id="pagecontainer">
 {{ content }}
