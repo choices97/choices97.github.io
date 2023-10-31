@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Second Post
+subtitle: 2023/10/31
 image: /assets/img/portfolio/02-thumbnail.jpg
 caption:
   title: Second Post
