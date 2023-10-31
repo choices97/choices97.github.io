@@ -60,12 +60,19 @@ plugins:
 paginate: 6
 paginate_path: "/page:num"
 # permalink: /:title.html
-# defaults:
-#   - scope:
-#     path: ""
-#     type: "posts"
-#     values:
-#       author: "Eunsung Choi"
-#       layout: page
-#       image: /assets/img/portfolio/01-thumbnail.jpg
-#       show_sidebar: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Eunsung Choi"
+      layout: post
+      image: /assets/img/header-bg2.jpg
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
