@@ -15,9 +15,9 @@ caption:
 
 **제주도 여행 포스트**
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/news1_1.jpg" alt='absolute' >
-IMAGE 1
+IMAGE 1 <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/news1_2.jpg" alt='absolute'>
-IMAGE 2
+IMAGE 2 <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/news1_3.jpg" alt='absolute'>
 IMAGE 3 <br>
 **Visited places** : <br>
