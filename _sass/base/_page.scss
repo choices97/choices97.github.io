@@ -12,9 +12,9 @@ a {
   color: $primary;
   &:hover {
     color: darken($primary, 10%);
-  }
-  &:hover img {
-    transform: scale(1.03) rotate(.02deg);
+    img {
+      transform: scale(1.03) rotate(.02deg);
+    }
   }
 }
 
