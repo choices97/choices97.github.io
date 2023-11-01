@@ -23,7 +23,7 @@ caption:
 **Cebu**
 - Ocean Blue Scuba Diving Resort
 - Barwoo
-- 
+  
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/03_3_full.png" alt='absolute'> <br>
 **Bohol** <br>
 - Chocolate hills with ATV
