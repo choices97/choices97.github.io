@@ -128,7 +128,7 @@ en: &DEFAULT_EN
 
   latest_posts:
     title: "LATEST POST"
-    text: "BLOG POSTS"
+    text: "LATEST 3 POSTS"
     section: latest_posts
     # section: posts
 
