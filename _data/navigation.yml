@@ -18,11 +18,14 @@ en: &DEFAULT_EN
     - title: "Interests"
       section: services
     - title: "Publication"
-      section: portfolio
+      page: publication
+      # section: portfolio
     - title: "Post"
-      section: posts
+      page: post
+      # section: posts
     - title: "Team"
-      section: team
+      page: team
+      # section: team
     - title: "Contact"
       section: contact
     - title: "SIC-X"
