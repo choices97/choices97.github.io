@@ -74,12 +74,14 @@ document.getElementById("page-top").className="bg-light";
 
 	<h2> </h2>
 	<div class="text-center">
+		<a class="latest_posts-link" href="{{ site.baseurl }}/posts" style="color:#fff;">
 		<button class="btn btn-primary" data-dismiss="modal" type="button" >
-			<a class="latest_posts-link" href="{{ site.baseurl }}/posts" style="color:#fff;">
+			
 				{{ site.data.sitetext[site.locale].posts.postbutton | default: "All Posts" }}
 				<i class="fas fa-times"></i>
-			</a>
+			
 		</button>
+		</a>
 	</div>
 
 	<h2> </h2>
