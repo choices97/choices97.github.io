@@ -7,8 +7,7 @@ caption:
   subtitle: VOL. 1-3
   thumbnail: /assets/img/fun/news2_thumbnail.gif
 ---
-<br><br>
-## **AWESOME MIX** <br>
+
 
 #### <center> **Vol.1** </center> <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/awesome_mix_vol1.gif" alt='absolute' > <br>
