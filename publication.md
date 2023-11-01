@@ -11,6 +11,8 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+<br> <br> <br>
+
 {% include portfolio_grid.html %}
 
 
