@@ -2,7 +2,7 @@
 layout: default
 title: Posts
 ---
-{% include head.html %}
+
 {% include nav.html %}
 
 {% if page.background == "grey" or page.background == "gray" %}
