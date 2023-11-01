@@ -4,6 +4,12 @@ body {
   @include body-font;
 }
 
+@media only screen and (max-width: 991px) {
+  body {
+    padding-top: 50px; /* 작은 화면에서 더 작은 여백으로 조절 */
+  }
+}
+
 p {
   line-height: 1.75;
 }
