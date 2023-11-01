@@ -13,14 +13,14 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
-    - title: "Education"
+    - title: "Timeline"
       section: timeline
     - title: "Interests"
       section: services
-    - title: "Publications"
+    - title: "Publication"
       section: portfolio
-    - title: "Fun"
-      section: fun
+    - title: "Post"
+      section: posts
     - title: "Team"
       section: team
     - title: "Contact"
