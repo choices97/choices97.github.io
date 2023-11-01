@@ -14,7 +14,7 @@ a {
   &:hover {
     color: darken($primary, 10%);
     img {
-      transform: scale(1.05) rotate(2deg);
+      transform: scale(1.05) rotate(1deg);
       transition: all 0.5s;
     }
   }
