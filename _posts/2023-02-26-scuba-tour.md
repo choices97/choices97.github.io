@@ -10,7 +10,8 @@ caption:
 ---
 <br><br>
 
-**제주도 여행 포스트** <br>
+
+
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/03_1_full.gif" alt='absolute' > <br>
 **Scuba Diving Log** <br>
 - Olango Island, Cebu (3 Tanks)
