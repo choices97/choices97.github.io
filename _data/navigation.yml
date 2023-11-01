@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       page: publication
       # section: portfolio
     - title: "Post"
-      page: post
+      page: posts
       # section: posts
     - title: "Team"
       page: team
