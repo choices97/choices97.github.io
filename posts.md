@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post
+title: Posts
 ---
 
 {% include post-item.html %}
