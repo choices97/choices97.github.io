@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         office: "Office"
         offices: "KAIST Bldg. N1, Rm. 618"
         research: "Interests"
-        researches: "Wireless Communications, Machine Learning, Stock, Swimming, Diving"
+        researches: "Wireless Communications, Machine Learning, Cardio, Swimming, Diving"
     body: "Feel free to contact me!"
     section: about
 
