@@ -123,7 +123,7 @@ en: &DEFAULT_EN
   posts:
     title: "POST"
     text: "BLOG POSTS"
-    page: post
+    page: posts
     # section: posts
 
   team:
