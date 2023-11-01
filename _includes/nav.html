@@ -39,6 +39,7 @@
           {%- else -%}
             {%- if link.page -%}
             <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}/{{ link.page }}">
+              {{ link.title }}
             </a>
             {%- else -%}
             <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
