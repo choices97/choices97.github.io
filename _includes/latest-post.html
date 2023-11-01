@@ -25,5 +25,10 @@
       </div>
 	{% endfor %}
     </div>
+    <button class="btn btn-primary" data-dismiss="modal" type="button">
+	<i class="fas fa-chevron-left"></i>
+	{{ site.data.sitetext[site.locale].posts.listbutton |
+	default: "Find More" }}
+    </button>
   </div>
 </section>
