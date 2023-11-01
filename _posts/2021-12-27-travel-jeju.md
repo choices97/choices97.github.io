@@ -1,6 +1,6 @@
 --- 
 layout : post
-title: FIRST POST
+title: TRAVEL - JEJU
 subtitle: 2021/12/27 ~ 2021/12/31
 author: Eunsung Choi
 caption:
@@ -8,35 +8,35 @@ caption:
   subtitle: 2021/12/27 ~ 2021/12/31
   thumbnail: /assets/img/fun/news1_thumbnail_desolve.gif
 ---
-<br><br>
 
-## **제주도 여행 포스트** <br>
+### **제주도** <br> <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/news1_1.jpg" alt='absolute' >
 <center> Visited places </center>
+<br>
 
 
 
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/news1_2.jpg" alt='absolute'>
-<center> IMAGE 2 </center>
-
+<center> Foods eaten </center>
+<br>
 
 
 <img data-action="zoom" class="img-fluid d-block mx-auto" src="/assets/img/fun/news1_3.jpg" alt='absolute'>
-<center> IMAGE 3 </center>
+<center> Awesome mometns </center>
+<br>
 
 
-
-**Visited places** : <br>
-- 카페더콘테나
-- 메이즈랜드
-- 제주 아쿠아리움
-- 섭지코지
-- 주상절리
-- 오설록 뮤지엄
-- 카멜리아힐
-- 981파크
-- 애월한담공원
-- 넥슨컴퓨터박물관
+### **Visited places** : <br>
+> 카페더콘테나
+> 메이즈랜드
+> 제주 아쿠아리움
+> 섭지코지
+> 주상절리
+> 오설록 뮤지엄
+> 카멜리아힐
+> 981파크
+> 애월한담공원
+> 넥슨컴퓨터박물관
 
 
 {:.list-inline}
