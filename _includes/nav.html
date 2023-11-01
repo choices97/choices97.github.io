@@ -32,12 +32,6 @@
           <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
             >{{ link.title }}</a
           >
-          {%- else if link.page -%}
-          <a
-            class="nav-link js-scroll-trigger"
-            href="{{ site.baseurl }}/{{ link.page }}"
-            >{{ link.title }}</a
-          >
           {%- else if link.section -%}
           <a
             class="nav-link js-scroll-trigger"
@@ -46,6 +40,12 @@
           >
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+          {%- endif -%}
+          {%- if link.page -%}
+          <a
+            class="nav-link js-scroll-trigger"
+            href="{{ site.baseurl }}/{{ link.page }}"
+            >{{ link.title }}</a>
           {%- endif -%}
         </li>
         {%- endfor -%}
