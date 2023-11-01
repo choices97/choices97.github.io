@@ -18,10 +18,12 @@
           <li class="nav-item">
             {%- if link.url -%}
               <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-            {%- else if link.section -%}
+            {%- endif -%}
+            {%- if link.section -%}
               <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
-            {%- else -%}
-              <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+            {%- endif -%}
+            {%- if link.page -%}
+              <a class="nav-link js-scroll-trigger" href="{{ link.page }}">{{ link.title }}</a>
             {%- endif -%}
           </li>
         {% endfor %}
@@ -48,3 +50,11 @@
     </div>
   </header>
   <!-- End Header -->
+
+<!--             {%- if link.url -%}
+              <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+            {%- else if link.section -%}
+              <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+            {%- else -%}
+              <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+            {%- endif -%} -->
