@@ -126,6 +126,13 @@ en: &DEFAULT_EN
     page: posts
     # section: posts
 
+  latest_posts:
+    title: "LATEST POST"
+    text: "BLOG POSTS"
+    section: latest_posts
+    # section: posts
+
+
   team:
     title: "AMAZING TEAM"
     text: "Members of SIC-X"
