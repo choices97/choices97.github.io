@@ -111,7 +111,7 @@ en: &DEFAULT_EN
       - desc: "[dc2] **최은성**, 최진석, 박정훈, 이준세, 이남윤, &ldquo;다운링크 위성 네트워크에서의 쉐도잉을 고려한 커버리지 분석&rdquo;, 통신 정보 합동 학술대회 (JCCI), Apr. 26-28, 2023, 여수"
       - desc: "[dc3] 이상민, **최은성**, 최진석, &ldquo;부분적인 채널 지식 하에서의 보안 통신을 위한 최대-최소 공정성 빔포밍&rdquo;, 한국통신학회 추계종합학술대회 (KICS), Nov. 22-24, 2023, 경주"
     page: publication
-    section: portfolio
+    # section: portfolio
     closebutton: "Close Publication"
     
   fun:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
     text: "Members of SIC-X"
     subtext: Signal, Information, and Communications for Everything.
     page: team
-    section: team
+    # section: team
     people:
       - name: "Jinseok Choi"
         role: "Professor"
