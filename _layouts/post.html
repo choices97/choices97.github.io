@@ -76,7 +76,13 @@ document.getElementById("page-top").className="bg-light";
 	<h2> </h2> <h2> </h2>
 	<div class="row">
 		
-	<div class="text-center">
+	{% if page.previous.url %}
+		<div class="col text-left">
+		<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+		</div>
+	{% endif %}
+		
+	<div class="col text-center">
 		<a class="latest_posts-link" href="{{ site.baseurl }}/posts" style="color:#fff;">
 		<button class="btn btn-primary" data-dismiss="modal" type="button" >
 			
@@ -86,19 +92,16 @@ document.getElementById("page-top").className="bg-light";
 		</button>
 		</a>
 	</div>
-	{% if page.previous.url %}
-		<div class="text-left">
-		<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-		</div>
-	{% endif %}
+
 	{% if page.next.url %}
-		<div class="text-right">
+		<div class="col text-right">
 		<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
 		</div>	
 	{% endif %}
-	<h2> </h2>
+	
 		
 	</div>
+	<h2> </h2>
       </div>
     </div>
 	  
