@@ -10,7 +10,7 @@ p {
 
 a {
   color: $primary;
-  overflow: hidden
+  overflow: hidden;
   &:hover {
     color: darken($primary, 10%);
     img {
