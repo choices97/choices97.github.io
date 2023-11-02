@@ -5,6 +5,7 @@
     margin: 0 0 15px;
     border-radius: 8px;
     box-shadow: 0 10px 10px #000;
+    background: linear-gradient(90deg,#000 0%,#fff 167%);
     .posts-link {
       position: relative;
       display: block;
@@ -21,7 +22,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0.5;
-        background: linear-gradient(90deg,#000 0%,#fff 167%);
+        
         &:hover {
           img {
           transform: scale(1.1) rotate(.02deg);
