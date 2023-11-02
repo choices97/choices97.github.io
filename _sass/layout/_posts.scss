@@ -20,7 +20,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0;
-        background: linear-gradient(90deg,#000 0%,#fff 167%)
+        background: linear-gradient(90deg,#000 0%,#fff 167%);
         &:hover {
           img {
           transform: scale(1.1) rotate(.02deg);
