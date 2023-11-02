@@ -109,6 +109,24 @@
         transition: transform .2s ease;
         width: 400px;
         height: 300px;
+    .posts-caption {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 25px;
+      text-align: center;
+      background-color: $white;
+      h4 {
+        margin: 0;
+        text-transform: none;
+      }
+      p {
+        font-size: 16px;
+        font-style: italic;
+        margin: 0;
+        @include serif-font;
+      }
+    }
+        
     }
 
     .posts-item:hover .posts-title,.posts-item:hover .posts-subtitle {
