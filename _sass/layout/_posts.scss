@@ -196,7 +196,8 @@
         // min-height: 280px;
         border-radius: 8px;
         transform: translate(0);
-        box-shadow: 0 0 10px #00000073;
+        // box-shadow: 0 0 10px #00000073;
+        box-shadow: -3px -3px 15px -3px rgba(0,0,0,.2), 5px 5px 6px -4px rgba(0,0,0,.3);
         overflow: hidden
     }
 }
