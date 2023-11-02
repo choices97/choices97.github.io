@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Eunsung Choi
 email      : es.choi@kaist.ac.kr #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Personal homepage and blog. Find Eunsung Choi's publication, contact, and research information here."
 author     : Eunsung Choi
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
