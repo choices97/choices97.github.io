@@ -3,7 +3,6 @@
   <form action="https://formspree.io/f/mdobeoag" method="POST">
   <div class="container">
     <div class="row">
-      <div class="col-lg-2"> </div>
       <div class="col-lg-8 text-center">
         <h2 class="section-heading text-uppercase">
           {{ site.data.sitetext[site.locale].contact.title | markdownify | default: Contact Me }}</h2>
@@ -43,7 +42,6 @@
           novalidate="novalidate" method="POST">
           <!--name="sentMessage"-->
           <div class="row">
-            <div class="col-lg-2"> </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
               <div class="form-group">
                 <input name="name" class="form-control" id="name" type="text"
