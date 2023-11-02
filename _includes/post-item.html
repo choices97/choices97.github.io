@@ -11,7 +11,7 @@
 	<div class="posts-item col-md-4 col-sm-6">
 	  <div class="posts-content">
 	    <a class="posts-image" href="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
-		::before
+<!-- 	    ::before -->
 	      <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="" loading="lazy">
 	    </a>
 	    <div class="posts-info">
@@ -19,12 +19,10 @@
 	        <h3 class="posts-title">{{ project.caption.title }}</h3>
 	      </div>
 	      <div class="posts-info-wrap">
-	        
 	        <div class="posts-subtitle">{{ project.caption.subtitle }} </div>
-	        
 	      </div>
 	    </div>
-		::after
+<!-- 	  ::after -->
 	  </div>
 	</div>	
 	{% endfor %}
