@@ -54,7 +54,8 @@
             transform: translate3d(0,100%,0);
             color: #fff;
             opacity: 0;
-            transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1);
+            transition: transform .4s cubic-bezier(.165,.85,.45,1);
+            transition: opacity .4s cubic-bezier(.165,.85,.45,1);
           }
           .posts-hover-content-subtitle{
             font-size: 16px;
@@ -63,7 +64,8 @@
             transform: translate3d(0,-100%,0);
             color: #fff;
             opacity: 0;
-            transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1);
+            transition: transform .4s cubic-bezier(.165,.85,.45,1);
+            transition: opacity .4s cubic-bezier(.165,.85,.45,1);
           }
         }
       }
