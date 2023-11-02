@@ -13,6 +13,12 @@
           <div class="posts-hover">
             <div class="posts-hover-content">
 <!--               <i class="{{ site.data.style.posts-icon | default: "fas fa-thin fa-plus fa-2x" }}"></i> -->
+		    <div class="posts-hover-content-title">
+			{{ project.caption.title }}
+		    </div>
+		    <div class="posts-hover-content-subtitle">
+			{{ project.caption.subtitle }}
+		    </div>
             </div>
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
