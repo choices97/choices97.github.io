@@ -55,6 +55,16 @@
             color: #fff;
             opacity: 0;
             transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1)
+            h4 {
+              margin: 0;
+              text-transform: none;
+            }
+            p {
+              font-size: 16px;
+              font-style: italic;
+              margin: 0;
+              @include serif-font;
+            }
           }
           .posts-hover-content-subtitle{
             font-size: 16px;
@@ -64,6 +74,16 @@
             color: #fff;
             opacity: 0;
             transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1)
+            h4 {
+              margin: 0;
+              text-transform: none;
+            }
+            p {
+              font-size: 16px;
+              font-style: italic;
+              margin: 0;
+              @include serif-font;
+            }
           }
         }
       }
