@@ -4,7 +4,7 @@ title: AWESOME MIX
 subtitle: VOL. 1-3
 caption:
   title: AWESOME MIX
-  subtitle: VOL. 1-3
+  subtitle: 2022/05/03
   thumbnail: /assets/img/fun/news2_thumbnail.gif
 ---
 
