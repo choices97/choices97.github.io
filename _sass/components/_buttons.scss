@@ -63,7 +63,8 @@
 }
 
 .c-button:active {
-    transform: translateY(3px) scale(.98)
+    transform: translateY(3px) scale(.98);
+    box-shadow: none;
 }
 
 .c-button--primary {
@@ -92,7 +93,7 @@
     opacity: 0;
     will-change: transform;
     transition: opacity .35s;
-    box-shadow: 0 0 0 1rem rgba(0, 0, 0, 0.05) !important;
+    // box-shadow: 0 0 0 1rem rgba(0, 0, 0, 0.05) !important;
     background: linear-gradient(180deg,#2EB1FF 0%,#2EB1FF 167%)
 }
 
