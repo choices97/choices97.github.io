@@ -58,7 +58,7 @@
     cursor: pointer;
     overflow: hidden;
     transition: all .25s ease;
-    box-shadow: 2px 2px 5px 0.02rem rgb(0 0 0 / 5%) !important;
+    box-shadow: 2px 2px 5px 0.02rem rgba(0 0 0 .05) !important;
     will-change: transform
 }
 
