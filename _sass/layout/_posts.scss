@@ -178,7 +178,7 @@
         will-change: transform
     }
 
-    .posts-image:hover:before {
+    .posts-image:not(:hover):before {
         opacity: 1;
         visibility: visible
     }
@@ -225,7 +225,7 @@
         z-index: 100;
         width: 100%;
         margin-top: auto;
-        padding: 0 16px 30px;
+        padding: 0 15px 15px;
         text-align: center;
         pointer-events: none
     }
@@ -248,8 +248,14 @@
         transform: translate3d(0,-100%,0)
     }
 
-    .posts-subtitle:hover {
-        opacity: .7
+    .posts-content:hover .posts-subtitle, .posts-content:hover .posts-title {
+        opacity: 0 !important;
+        transform: translate3d(0, -100%, 0) !important;
+    }
+    
+    .posts-content:hover .posts-title {
+        opacity: 0 !important;
+        transform: translate3d(0, 100%, 0) !important;
     }
 
     .posts-title,.posts-subtitle {
