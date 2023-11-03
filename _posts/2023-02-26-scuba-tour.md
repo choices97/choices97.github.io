@@ -5,7 +5,7 @@ subtitle: 2023/02/26 ~ 2023/03/02
 author: Eunsung Choi
 caption:
   title: Scuba Diving Tour
-  subtitle: 2023/02/26 ~ 2023/03/02
+  subtitle: 2023/02/26
   thumbnail: /assets/img/fun/news3_thumbnail.gif
 ---
 <br><br>
