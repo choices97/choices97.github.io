@@ -21,6 +21,96 @@
   }
   &:active,
   &:focus {
-    box-shadow: 0 0 0 0.2rem rgba(84,191,255, 0.5) !important;
+    box-shadow: 0 0 5px 0.1rem rgba(84,191,255, 0.7) !important;
   }
+}
+
+// .btn-down {
+//   background-color: $primary;
+//   border-color: $primary;
+//   transition: 
+//   &:active,
+//   &:focus,
+//   &:hover {
+//     background-color: darken($primary, 7.5%) !important;
+//     border-color: darken($primary, 7.5%) !important;
+//     color: white;
+//   }
+//   &:active,
+//   &:focus {
+//     box-shadow: 0 0 0 0.2rem rgba(84,191,255, 0.5) !important;
+//   }
+// }
+
+.c-button {
+    @include heading-font;
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1;
+    font-weight: 700;
+    border-radius: 8px;
+    white-space: nowrap;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all .25s ease;
+    box-shadow: 2px 2px 5px 0.02rem rgb(0 0 0 / 5%) !important;
+    will-change: transform
+}
+
+.c-button:active {
+    transform: translateY(3px) scale(.98)
+}
+
+.c-button--primary {
+    color: #fff;
+    background: linear-gradient(180deg,#2eb1ff 0%,#8cd4ff 167%)
+}
+
+.c-button--primary:hover {
+    color: #fff!important
+    
+}
+
+.c-button--primary:hover:before {
+    opacity: 1
+}
+
+.c-button--primary:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    will-change: transform;
+    transition: opacity .35s;
+    box-shadow: 0 0 0 1rem rgb(0 0 0 / 50%) !important;
+    background: linear-gradient(180deg,#2EB1FF 0%,#2EB1FF 167%)
+}
+
+.c-button--secondary {
+    color: #110e38;
+    background: #fff
+}
+
+.c-button--secondary:hover {
+    color: #110e38
+}
+
+.c-button--small {
+    padding: 16px 32px;
+    font-size: 16px
+}
+
+.c-button--large {
+    padding: 24px 44px;
+    font-size: 18px
 }
