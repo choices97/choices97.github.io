@@ -346,52 +346,16 @@
 }
 
 #latest_posts {
-  .latest_posts-item {
-    right: 0;
-    margin: 0 0 15px;
-    .latest_posts-link {
-      position: relative;
-      display: block;
-      max-width: 400px;
-      margin: 0 auto;
-      cursor: pointer;
-      .latest_posts-hover {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        -webkit-transition: all ease 0.5s;
-        -moz-transition: all ease 0.5s;
-        transition: all ease 0.5s;
-        opacity: 0;
-        background: fade-out(#000, 0.8);
-        &:hover {
-          opacity: 1;
-        }
-        .latest_posts-hover-content {
-          font-size: 20px;
-          position: absolute;
-          top: 50%;
-          width: 100%;
-          height: 20px;
-          margin-top: -12px;
-          text-align: center;
-          color: white;
-          i {
-            margin-top: -12px;
-          }
-          h3,
-          h4 {
-            margin: 0;
-          }
-        }
-      }
-    }
-    .latest_posts-caption {
+
+    .posts-item {
+        margin-bottom: 30px;
+        transition: transform .2s ease;
+    .posts-caption {
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: $white;
+      background-color: transparent;
       h4 {
         margin: 0;
         text-transform: none;
@@ -403,7 +367,6 @@
         @include serif-font;
       }
     }
-  }
   * {
     z-index: 2;
   }
