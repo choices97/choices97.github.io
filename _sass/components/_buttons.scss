@@ -74,7 +74,8 @@
 
 .c-button--primary:hover {
     color: #fff!important
-    
+    transform: translateY(5px) scale(0.99);
+    box-shadow: none;
 }
 
 .c-button--primary:hover:before {
