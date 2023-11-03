@@ -1,9 +1,11 @@
 .about-member {
   margin-bottom: 50px;
   img {
-    //width: 500px;
-    //height: 500px;
-    border: 7px solid fade-out($black, 0.9);
+    border-radius: 12px;
+    aspect-ratio: 7 / 8;
+    object-fit: cover;
+    overflow: hidden;
+    box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.2),5px 5px 6px -4px rgba(0,0,0,0.3);
   }
   p {
     margin-top: 0;
