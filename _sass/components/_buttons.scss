@@ -75,9 +75,9 @@
 }
 
 .c-button--primary:hover {
-    color: #fff!important
-    transform: translateY(5px) scale(0.99);
-    box-shadow: none;
+    color: #fff !important;
+    transform: translateY(5px) scale(0.99) !important;
+    box-shadow: none !important;
 }
 
 .c-button--primary:hover:before {
