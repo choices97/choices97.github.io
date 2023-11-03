@@ -11,6 +11,8 @@ header.masthead {
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
+    opacity: 0; /* 초기에 숨김 */
+    transition: opacity 1s ease-in-out; /* 트랜지션 설정 */
     .intro-lead-in {
       font-size: 22px;
       font-style: italic;
