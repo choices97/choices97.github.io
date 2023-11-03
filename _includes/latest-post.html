@@ -8,7 +8,7 @@
     </div>
     <div class="row">
 
-	{% for project in site.posts limit : 3%}
+	{% for project in site.posts limit : 3 %}
 	<div class="posts-item col-md-4 col-sm-6 text-center">
 	  <div class="posts-content">
 	    <a class="posts-image" href="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
