@@ -8,7 +8,7 @@
     </div>
     <div class="row">
   
-	{% for project in site.posts limit: 3 %}
+<!-- 	{% for project in site.posts limit: 3 %}
       <div class="col-md-4 col-sm-6 latest_posts-item">
         <a class="latest_posts-link" href="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
           <div class="latest_posts-hover">
@@ -23,7 +23,31 @@
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
+	{% endfor %} -->
+	
+	{% for project in site.posts limit: 3 %}
+	<div class="posts-item col-md-4 col-sm-6 text-center">
+	  <div class="posts-content">
+	    <a class="posts-image" href="{{ site.baseurl }}{{ site.posts[forloop.index0].url }}">
+		<!-- 	    ::before -->
+	      <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="" loading="lazy">
+	    </a>
+	    <div class="posts-info">
+	      <div class="posts-info-wrap">
+	        <h3 class="posts-title">{{ project.caption.title }}</h3>
+	      </div>
+	      <div class="posts-info-wrap">
+	        <div class="posts-subtitle">{{ project.caption.subtitle }} </div>
+	      </div>
+	    </div>
+		<!-- 	  ::after -->
+	  </div>
+        <div class="posts-caption">
+          <h4>{{ project.caption.title }}</h4>
+        </div>
+	</div>	
 	{% endfor %}
+	
     </div>
     <div class="text-center">
     <a class="latest_posts-link" href="{{ site.baseurl }}/posts" style="color:#36AE7C;">
