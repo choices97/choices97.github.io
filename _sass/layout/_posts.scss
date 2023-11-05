@@ -102,11 +102,25 @@
     .posts-content:after {
         padding-top:100%
     }
+    .posts-title {
+        font-size: 123% !important;
+    }
+
+    .posts-subtitle {
+        font-size: 80% !important;
+    }
 }
 
 @media only all and (max-width: 576px) {
     .posts-content .posts-info {
         padding:0 16px 16px
+    }
+    .posts-title {
+        font-size: 200% !important;
+    }
+
+    .posts-subtitle {
+        font-size: 120% !important;
     }
 }
 
