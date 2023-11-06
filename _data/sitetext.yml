@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   about:
     title: "ABOUT ME"
-    text: "Informations"
+    text: "Information"
     people:
       - image: assets/img/eunsungchoi5.jpg
         name: "EUN SUNG CHOI"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
     section: about
 
   timeline:
-    title: "Timelines"
+    title: "Timeline"
     text: "Education"
     section: timeline
     # left is the default
