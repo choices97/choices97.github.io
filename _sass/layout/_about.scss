@@ -12,3 +12,37 @@
   }
 }
 
+.img-toggle {
+  position: relative;
+  display: inline-block;
+}
+
+.img-toggle .original {
+  border-radius: 15px;
+  // margin: 0 auto;
+  margin-bottom: 50px;
+  // border: 7px solid #fff;
+  // width: 225px;
+  // max-width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.2),5px 5px 6px -4px rgba(0,0,0,0.3);
+}
+
+.img-toggle .toggled {
+  border-radius: 15px;
+  margin: 0 auto;
+  // border: 7px solid #fff;
+  // width: 225px;
+  // max-width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: 0.3s ease;
+}
+.img-toggle:hover .toggled {
+  opacity: 1;
+}
