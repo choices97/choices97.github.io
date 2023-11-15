@@ -184,6 +184,12 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
             icon: "fab fa-instagram"
+      - name: "Soomin Bae"
+        role: "Undergraduate Intern"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
       - name: "Sungyu Kim"
         role: "Undergraduate Intern"
         image: assets/img/team/4.jpg
