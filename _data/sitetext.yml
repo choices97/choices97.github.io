@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     people:
       - image: assets/img/eunsungchoi5.jpg
         name: "EUN SUNG CHOI"
-        info: "M.S student in SIC-X, UNIST"
+        info: "Ph.D student in SIC-X, KAIST"
         email: "E-mail"
         emails: "es.choi@kaist.ac.kr"
         office: "Office"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
         desc: "Fair, Secure <br> ISAC Communications"
         icon: fas fa-broadcast-tower #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
-        desc: "Skills : C/C++, MATLAB, Python(studying) <br> Machine Learning for Communication"
+        desc: "Skills : C/C++, MATLAB, Python <br> Machine Learning for Communication"
         icon: fab fa-connectdevelop
       # - title: "Running"
       #   desc: "Jogging, Cardio"
@@ -184,6 +184,14 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com/2__sangmin
             icon: "fab fa-instagram"
+      - name: "Jiwon Sung"
+        role: "M.S Student"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+          - url: https://instagram.com/lukasung_
+            icon: "fab fa-instagram"
       - name: "Soomin Bae"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
@@ -198,14 +206,7 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: https://instagram.com/burger_coke_
             icon: "fab fa-instagram"
-      - name: "Jiwon Sung"
-        role: "Undergraduate Intern"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://sic-x.kaist.ac.kr/home
-            icon: fas fa-globe
-          - url: https://instagram.com/lukasung_
-            icon: "fab fa-instagram"
+
             
   clients:
     section: clients
