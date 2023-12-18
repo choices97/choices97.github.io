@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Interest"
       section: services
     - title: "Timeline"
-      section: timeline
+      page: timeline
     - title: "Publication"
       page: publication
     - title: "Post"
