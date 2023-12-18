@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         emails: "es.choi@kaist.ac.kr"
         office: "Office"
         offices: "KAIST Bldg. N1, Rm. 618"
-        researches: "[Google Scholar](https://scholar.google.com/citations?user=ULAJfqwAAAAJ&hl=en)    [Linkedin](https://www.linkedin.com/in/eunsung-choi-86818823b/)    [Github](https://github.com/choices97)  [Publications](https://choices97.github.io/publication)"
+        researches: "[Google Scholar](https://scholar.google.com/citations?user=ULAJfqwAAAAJ&hl=en)\ \ \ \ [Linkedin](https://www.linkedin.com/in/eunsung-choi-86818823b/)    [Github](https://github.com/choices97)  [Publications](https://choices97.github.io/publication)"
         # research: "Interests"
     body: "Feel free to contact me!"
     section: about
