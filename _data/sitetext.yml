@@ -161,6 +161,7 @@ en: &DEFAULT_EN
       - name: "Jinseok Choi"
         role: "Professor"
         image: assets/img/team/1.gif
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
@@ -169,6 +170,7 @@ en: &DEFAULT_EN
       - name: "Mintaek Oh"
         role: "Ph.D Student"
         image: assets/img/team/4.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sites.google.com/view/ohmin95
             icon: fas fa-globe
@@ -177,6 +179,7 @@ en: &DEFAULT_EN
       - name: "Seokjun Park"
         role: "Ph.D Student"
         image: assets/img/team/3.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sites.google.com/view/seokjunpark/education?authuser=0
             icon: fas fa-globe
@@ -187,6 +190,7 @@ en: &DEFAULT_EN
       - name: "Seunghyeong Yoo"
         role: "M.S Student"
         image: assets/img/team/4.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://seunghy1468.github.io/
             icon: fas fa-globe
@@ -197,6 +201,7 @@ en: &DEFAULT_EN
       - name: "Sangmin Lee"
         role: "M.S Student"
         image: assets/img/team/2.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
@@ -205,6 +210,7 @@ en: &DEFAULT_EN
       - name: "Jiwon Sung"
         role: "M.S Student"
         image: assets/img/team/3.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
@@ -213,12 +219,14 @@ en: &DEFAULT_EN
       - name: "Soomin Bae"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Sungyu Kim"
         role: "Undergraduate Intern"
         image: assets/img/team/4.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
