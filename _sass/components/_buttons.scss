@@ -26,34 +26,6 @@
 }
 
 
-.img-toggle {
-  position: relative;
-  display: inline-block;
-}
-
-.img-toggle .original {
-  border-radius: 15px;
-  margin: 0 auto;
-  border: 7px solid #fff;
-  width: 225px;
-  max-width: 100%;
-}
-
-.img-toggle .toggled {
-  border-radius: 15px;
-  margin: 0 auto;
-  border: 7px solid #fff;
-  width: 225px;
-  max-width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: 0.3s ease;
-}
-.img-toggle:hover .toggled {
-  opacity: 1;
-}
 
 // .btn-down {
 //   background-color: $primary;
