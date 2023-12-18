@@ -56,6 +56,24 @@ h6 {
     @include serif-font;
   }
 }
+
+.page-section-bio {
+  padding: 0px 0px 30px 0px;
+  h2.section-heading-bio {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h3.section-subheading-bio {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    @include serif-font;
+  }
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
