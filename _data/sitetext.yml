@@ -47,6 +47,7 @@ en: &DEFAULT_EN
       - desc: "Reviewer experience at Transactions on Communications (TCOM)"
       - desc: "Reviewer experience at Transactions on Wireless Communications (TWC)"
       - desc: "Reviewer experience at Transactions on Information and Forensics Security (TIFS)"
+      -title: ""
     section: bio
 
   timeline:

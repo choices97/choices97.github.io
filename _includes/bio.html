@@ -8,7 +8,7 @@
   
       {% for bio in site.data.sitetext[site.locale].bio.list %}
           <div class="col-lg-12">
-            <h4 class="bio-heading">{{ bio.title | markdownify }}</h4>
+            <h4 style="text-align:left" class="bio-heading">{{ bio.title | markdownify }}</h4>
         <h6 class="bio-subheading">{{ bio.subtitle | markdownify }}</h6>
             {% if bio.desc %}<div align="justify" class="text-muted">{{ bio.desc | markdownify }}</div>{% endif %}
           </div>
