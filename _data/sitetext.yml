@@ -20,15 +20,15 @@ en: &DEFAULT_EN
     title: "ABOUT ME"
     text: "Information"
     people:
-      - image: assets/img/eunsungchoi5.jpg
+      - image: assets/img/eunsungchoi.jpg
         name: "EUN SUNG CHOI"
         info: "Ph.D student in SIC-X, KAIST"
         email: "E-mail"
         emails: "es.choi@kaist.ac.kr"
         office: "Office"
         offices: "KAIST Bldg. N1, Rm. 618"
-        research: "Interests"
-        researches: "Wireless Communications, Machine Learning, Cardio, Swimming, Diving"
+        # research: "Interests"
+        researches: "[Google Scholar](https://scholar.google.com/citations?user=ULAJfqwAAAAJ&hl=en)  [Linkedin](https://www.linkedin.com/in/eunsung-choi-86818823b/)  [Github](https://github.com/choices97)"
     body: "Feel free to contact me!"
     section: about
 
