@@ -16,4 +16,35 @@
   p {
     margin-top: 0;
   }
+
+  .img-toggle {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .img-toggle .original {
+    width: 225px;
+    height: 225px;
+    box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.1),5px 5px 6px -4px rgba(0,0,0,0.1);
+    border-radius:25%;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  
+  .img-toggle .toggled {
+    width: 225px;
+    height: 225px;
+    box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.1),5px 5px 6px -4px rgba(0,0,0,0.1);
+    border-radius:25%;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: 0.3s ease;
+  }
+  .img-toggle:hover .toggled {
+    opacity: 1;
+  }
 }
