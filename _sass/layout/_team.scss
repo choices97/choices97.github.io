@@ -17,12 +17,12 @@
     margin-top: 0;
   }
 
-  .team-member .img-toggle {
+  .team-img-toggle {
     position: relative;
     display: inline-block;
   }
   
-  .team-member .img-toggle .original {
+  .team-img-toggle .original {
     width: 225px;
     height: 225px;
     box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.1),5px 5px 6px -4px rgba(0,0,0,0.1);
@@ -31,7 +31,7 @@
     overflow: hidden;
   }
   
-  .team-member .img-toggle .toggled {
+  .team-img-toggle .toggled {
     width: 225px;
     height: 225px;
     box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.1),5px 5px 6px -4px rgba(0,0,0,0.1);
@@ -44,7 +44,7 @@
     opacity: 0;
     transition: 0.3s ease;
   }
-  .team-member .img-toggle:hover .toggled {
+  .team-img-toggle:hover .toggled {
     opacity: 1;
   }
 }
