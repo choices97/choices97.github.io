@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Information"
     people:
       - image: assets/img/eunsungchoi_rect.jpg
-      - image-toggled: assets/img/eunsungchoi5.jpg
+        image-toggled: assets/img/eunsungchoi5.jpg
         name: "EUN SUNG CHOI"
         info: "Ph.D student in SIC-X, KAIST"
         email: "E-mail"
