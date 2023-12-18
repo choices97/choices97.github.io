@@ -35,7 +35,7 @@ en: &DEFAULT_EN
   bio:
     list:
       - title: "**Short bio**"
-        desc: "Eunsung Choi(S’22) received his B.S. in the Department of Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea, in 2022. He received his M.S. degree with the Department of Electrical Engineering, UNIST under supervision of professor Jinseok Choi and Sungwhan Yoon. He is currently pursuing the Ph.D. degree with the Department of Electrical Engineering, KAIST under supervision of professor Jinseok Choi. His main research interest is to develop future wireless communication systems by applying information theory, optimization, and machine learning."
+        desc: "Eunsung Choi(S’22) received his B.S. in the Department of Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea, in 2022. He received his M.S. degree with the Department of Electrical Engineering, UNIST under supervision of professor Jinseok Choi and Sungwhan Yoon. He is currently pursuing the Ph.D. degree with the Department of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST) under supervision of professor Jinseok Choi. His main research interest is to develop future wireless communication systems by applying information theory, optimization, and machine learning."
       - title: "**Education**"
         desc: "Ph.D. in Electrical Engineering, KAIST (current)"
       - desc: "M.S. in Electrical Engineering, UNIST, 2024."
