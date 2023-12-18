@@ -11,7 +11,10 @@
   {% for person in site.data.sitetext[site.locale].team.people %}
 	<div class="col-sm-4">
 	  <div class="team-member">
-		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+		<div class="img-toggle">
+			<img class="original mx-auto" src="{{ person.image }}" alt="">
+			<img class="toggled mx-auto" src="{{ person.image-toggled }}" alt="">
+		</div>
 		<h4>{{ person.name }}</h4>
 		<p class="text-muted">{{ person.role }}</p>
 		<ul class="list-inline social-buttons">
