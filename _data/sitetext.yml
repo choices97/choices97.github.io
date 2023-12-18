@@ -161,7 +161,7 @@ en: &DEFAULT_EN
       - name: "Jinseok Choi"
         role: "Professor"
         image: assets/img/team/1.gif
-        image-toggled: assets/img/eunsungchoi5.jpg
+        image-toggled: assets/img/team/jinseok.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
