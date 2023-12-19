@@ -1,10 +1,11 @@
 .about-member {
-  margin-bottom: 50px;
+  // margin-bottom: 50px;
   img {
     border-radius: 15px;
     // aspect-ratio: 7 / 8;
     object-fit: cover;
     overflow: hidden;
+    width: 300px;
     box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.2),5px 5px 6px -4px rgba(0,0,0,0.3);
   }
   p {
