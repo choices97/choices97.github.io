@@ -116,8 +116,7 @@ en: &DEFAULT_EN
     list:
       - title: "**Journal Articles**"
       - subtitle: "[in preparation/submitted]"
-        desc: "[s1] Sungyu Kim, **Eunsung Choi**, Mintaek Oh, and Jinseok Choi*, &ldquo;Joint Secure Precoding and Artificial Noise Design for Max-Min Fairness with Colluding Eavesdroppers&rdquo;, IEEE Communications Letter (submitted)"
-      - desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Per-feed Power-constrained Secure Precoding for Multi-beam Multicast Satellite Communications&rdquo;, IEEE , TBD"
+         desc: "[p1] **Eunsung Choi**, Jinseok Choi*, &ldquo;Per-feed Power-constrained Secure Precoding for Multi-beam Multicast Satellite Communications&rdquo;, IEEE , TBD"
       - subtitle: "[published/accepted]"
         desc: "[1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://ieeexplore.ieee.org/document/9973364), IEEE Transactions on Communications, vol. 71, no. 3, pp. 1564 - 1578, Mar. 2023"
       - desc: "[2] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Physical Layer Security with Partial Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10149521), IEEE Wireless Communications Letter, vol. 12, no. 9, pp. 1637-1641, Sep. 2023"
