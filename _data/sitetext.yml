@@ -130,6 +130,8 @@ en: &DEFAULT_EN
       - desc: "[dc3] 이상민, **최은성**, 최진석*, [&ldquo;부분적인 채널 지식 하에서의 보안 통신을 위한 최대-최소 공정성 빔포밍&rdquo;](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11667510&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true), 한국통신학회 추계종합학술대회 (KICS), Nov. 22-24, 2023, 경주"
       - desc: "[dc4] 김선규, **최은성**, 오민택, 최진석*, [&ldquo;보수적인 보안 통신 및 공정 데이터율을 위한 인공 잡음 기반 보안 프리코딩 디자인&rdquo;](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11737589), 한국통신학회 추계종합학술대회 (KICS), Jan. 31 - Feb. 2, 2024, 용평"
       - desc: "[dc5] **최은성**, 유승형, 김선규, 최준일, 최진석*, &ldquo;저궤도 위성 네트워크 커버리지 분석 서베이&rdquo;, 한국항공우주학회 춘계학술대회 (KSAS), Apr. 3-5, 2024, 제주"
+      - desc: "[dc6] **최은성**, 최진석*, &ldquo;피드 별 파워 제약 기반 위성 빔 형성 최적화&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 19-22, 2024, 제주"
+      - desc: "[dc7] 박석준, **최은성**, 최진석*, 박정훈, 이남윤, &ldquo;통신 중심의 빔포밍을 이용한 통합 센싱 및 통신&rdquo;, 한국통신학회 하계종합학술대회 (KICS), Jun. 19-22, 2024, 제주 **(Haedong Best Paper Award)**"
       - title: "**Patent**"
       - desc: "[1] 최진석*, **최은성**, 이상민, &ldquo;부분적인 채널 지식에서 최대-최소 공정성 보안 통신 기법&rdquo;, No.10-2023-0180312, Dec. 13, 2023"
     page: publication
