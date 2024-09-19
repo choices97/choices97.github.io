@@ -195,7 +195,7 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/seok___j.u.n/
             icon: fab fa-instagram
       - name: "Seunghyeong Yoo"
-        role: "M.S Student"
+        role: "Ph.D Student"
         image: assets/img/team/4.jpg
         image-toggled: assets/img/team/sy.jpg
         social:
