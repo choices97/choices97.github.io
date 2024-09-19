@@ -173,7 +173,7 @@ en: &DEFAULT_EN
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
           - url: https://instagram.com
-            icon: "fab fa-instagram"
+            icon: fab fa-instagram
       - name: "Mintaek Oh"
         role: "Ph.D Student"
         image: assets/img/team/4.jpg
@@ -182,7 +182,7 @@ en: &DEFAULT_EN
           - url: https://sites.google.com/view/ohmin95
             icon: fas fa-globe
           - url: https://instagram.com
-            icon: "fab fa-instagram"
+            icon: fab fa-instagram
       - name: "Seokjun Park"
         role: "Ph.D Student"
         image: assets/img/team/3.jpg
@@ -193,7 +193,7 @@ en: &DEFAULT_EN
           - url: https://www.youtube.com/channel/UCbX2SGVXqRffQCikBCOjLmA
             icon: fab fa-youtube
           - url: https://www.instagram.com/seok___j.u.n/
-            icon: "fab fa-instagram"
+            icon: fab fa-instagram
       - name: "Seunghyeong Yoo"
         role: "M.S Student"
         image: assets/img/team/4.jpg
@@ -202,18 +202,9 @@ en: &DEFAULT_EN
           - url: https://seunghy1468.github.io/
             icon: fas fa-globe
           - url: https://github.com/seunghy1468
-            icon: "fab fa-github"
+            icon: fab fa-github
           - url: https://instagram.com/gabriel_yoo__
-            icon: "fab fa-instagram"
-      - name: "Sangmin Lee"
-        role: "M.S Student"
-        image: assets/img/team/2.jpg
-        image-toggled: assets/img/team/sangmin.jpg
-        social:
-          - url: https://sic-x.kaist.ac.kr/home
-            icon: fas fa-globe
-          - url: https://instagram.com/2__sangmin
-            icon: "fab fa-instagram"
+            icon: fab fa-instagram
       - name: "Jiwon Sung"
         role: "M.S Student"
         image: assets/img/team/3.jpg
@@ -222,7 +213,30 @@ en: &DEFAULT_EN
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
           - url: https://instagram.com/lukasung_
-            icon: "fab fa-instagram"
+            icon: fab fa-instagram
+      - name: "Chanho Moon"
+        role: "M.S Student"
+        image: assets/img/team/4.jpg
+        image-toggled: assets/img/team/chanho.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+      - name: "Sungyu Kim"
+        role: "M.S Student"
+        image: assets/img/team/4.jpg
+        image-toggled: assets/img/team/sungyu.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+          - url: https://instagram.com/burger_coke_
+            icon: fab fa-instagram
+      - name: "Jun Kang"
+        role: "M.S Student"
+        image: assets/img/team/2.jpg
+        image-toggled: assets/img/team/sungyu.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
       - name: "Soomin Bae"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
@@ -230,16 +244,18 @@ en: &DEFAULT_EN
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-      - name: "Sungyu Kim"
+      - name: "Sehyeon Kim"
         role: "Undergraduate Intern"
-        image: assets/img/team/4.jpg
-        image-toggled: assets/img/team/sungyu.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-          - url: https://instagram.com/burger_coke_
-            icon: "fab fa-instagram"
-
+      - name: "Jaehyun Kim"
+        role: "Undergraduate Intern"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
             
   clients:
     section: clients
