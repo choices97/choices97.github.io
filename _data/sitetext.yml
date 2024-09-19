@@ -233,7 +233,6 @@ en: &DEFAULT_EN
       - name: "Jun Kang"
         role: "M.S Student"
         image: assets/img/team/2.jpg
-        image-toggled: assets/img/team/sungyu.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
@@ -246,13 +245,13 @@ en: &DEFAULT_EN
             icon: fas fa-globe
       - name: "Sehyeon Kim"
         role: "Undergraduate Intern"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Jaehyun Kim"
         role: "Undergraduate Intern"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
