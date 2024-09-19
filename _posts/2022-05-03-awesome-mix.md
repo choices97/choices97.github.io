@@ -15,7 +15,7 @@ Blue Swede - [Hooked on a Feeling](https://www.youtube.com/watch?v=7q0UTFq-o-o&a
 Redbone - [Come and Get Your Love](https://www.youtube.com/watch?v=bc0KhhjJP98&ab_channel=RedboneVEVO) <br>
 Jackson 5 - [I Want You Back](https://www.youtube.com/watch?v=DGDyAb6pePo&ab_channel=JoelGustafsson) <br>
 
-#### ** <center> Vol.2 </center> ** <br>
+#### **<center> Vol.2 </center>** <br>
 <img data-action="zoom" class="img-fluid d-block mx-auto" src= "/assets/img/fun/awesome_mix_vol2.webp" alt='absolute' width="600" height="600" > <br>
 Electric Light Orchestra - [Mr. Blue Sky](https://www.youtube.com/watch?v=bJ8Sz8CJY5g&ab_channel=ElectricLightOrchestra-Topic) <br>
 Looking Glass - [Brandy (You're a Fine Girl)](https://www.youtube.com/watch?v=DVx8L7a3MuE&ab_channel=LookingGlassVEVO) <br>
