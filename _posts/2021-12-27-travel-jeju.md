@@ -1,10 +1,10 @@
 --- 
 layout : post
-title: TRAVEL \: JEJU
+title: TRAVEL &#58; JEJU
 subtitle: 2021/12/27 ~ 2021/12/31
 author: Eunsung Choi
 caption:
-  title: TRAVEL \: JEJU
+  title: TRAVEL &#58; JEJU
   subtitle: Jeju island
   thumbnail: /assets/img/fun/news1_thumbnail_desolve.gif
 ---
