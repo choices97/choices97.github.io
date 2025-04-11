@@ -137,6 +137,7 @@ en: &DEFAULT_EN
       - desc: "[dc8] 박석준, **최은성**, 최진석*, &ldquo;SCNR 및 MSE 값 조정을 통한 센싱-통신 통합 시스템&rdquo;, 한국통신학회 추계종합학술대회 (KICS), Nov. 20-22, 2024, 경주 **(Best Paper Award)**"
       - title: "**Patent**"
       - desc: "[1] 최진석*, **최은성**, 이상민, &ldquo;부분적인 채널 지식에서 최대-최소 공정성 보안 통신 기법&rdquo;, No.10-2023-0180312, Dec. 13, 2023"
+      - desc: "[2] 최진석*, 박석준, **최은성**, 장지환, 정재훈, &ldquo;SCNR 및 MSE 조정이 가능한 센싱-통신 통합 시스템&rdquo;, No.10-2024-0111526, Aug. 20, 2024"
     page: publication
     # section: portfolio
     closebutton: "Close Publication"
