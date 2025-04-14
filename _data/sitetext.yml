@@ -243,7 +243,7 @@ en: &DEFAULT_EN
       - name: "Sehyeon Kim"
         role: "M.S Student"
         image: assets/img/team/4.jpg
-        image-toggled: assets/img/team/sehyeon.jpg
+        image-toggled: assets/img/team/sehyeon.jpeg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
