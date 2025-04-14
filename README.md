@@ -1,6 +1,6 @@
 # [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
 
-[![HitCount](https://hits.dwyl.com/choices97/choices97githubio.svg?style=flat&show=unique)](http://hits.dwyl.com/choices97/choices97githubio)
+[![HitCount](https://hits.dwyl.com/choices97/choices97githubio.svg?style=flat&show=unique)](https://hits.dwyl.com/choices97/choices97githubio)
 This is the fastest and easiest way to get up and running on GitHub Pages.
 Simply generate your own repository by clicking the [![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate) button, 
 then replace the sample content with your own and configure for your needs.
