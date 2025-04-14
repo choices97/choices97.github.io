@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Information"
     people:
       - image: assets/img/eunsungchoi_rect.jpg
-        image-toggled: assets/img/eunsungchoi5.jpg
+        image-toggled: assets/img/eunsungchoi6.jpg
         name: "EUN SUNG CHOI"
         info: "Ph.D student in SIC-X, KAIST"
         email: "E-mail"
@@ -239,6 +239,30 @@ en: &DEFAULT_EN
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
+      - name: "Sehyeon Kim"
+        role: "M.S Student"
+        image: assets/img/team/4.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+      - name: "Jaehyun Kim"
+        role: "M.S Student"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+      - name: "Yura Jung"
+        role: "M.S Student"
+        image: assets/img/team/4.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
+      - name: "Seungbu Yang"
+        role: "M.S Student"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://sic-x.kaist.ac.kr/home
+            icon: fas fa-globe
       - name: "Soomin Bae"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
@@ -246,15 +270,17 @@ en: &DEFAULT_EN
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-      - name: "Sehyeon Kim"
+      - name: "Mingyu Park"
         role: "Undergraduate Intern"
-        image: assets/img/team/4.jpg
+        image: assets/img/team/3.jpg
+        image-toggled: assets/img/team/soomin.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-      - name: "Jaehyun Kim"
+      - name: "Jinho Han"
         role: "Undergraduate Intern"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/3.jpg
+        image-toggled: assets/img/team/soomin.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
