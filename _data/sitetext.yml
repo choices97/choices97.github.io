@@ -236,30 +236,35 @@ en: &DEFAULT_EN
       - name: "Jun Kang"
         role: "M.S Student"
         image: assets/img/team/2.jpg
+        image-toggled: assets/img/team/jun.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Sehyeon Kim"
         role: "M.S Student"
         image: assets/img/team/4.jpg
+        image-toggled: assets/img/team/sehyeon.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Jaehyun Kim"
         role: "M.S Student"
         image: assets/img/team/2.jpg
+        image-toggled: assets/img/team/jaehyun.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Yura Jung"
         role: "M.S Student"
         image: assets/img/team/4.jpg
+        image-toggled: assets/img/team/yura.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Seungbu Yang"
         role: "M.S Student"
         image: assets/img/team/2.jpg
+        image-toggled: assets/img/team/seungbu.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
@@ -273,12 +278,14 @@ en: &DEFAULT_EN
       - name: "Mingyu Park"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
+        image-toggled: assets/img/team/minkyu.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Jinho Han"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
+        image-toggled: assets/img/team/jinho.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
