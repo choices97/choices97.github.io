@@ -101,7 +101,7 @@ en: &DEFAULT_EN
       #   desc: "Jogging, Cardio"
       #   icon: fas fa-running
       - title: "Swimming & Diving"
-        desc: "Freestyle : 27.60s, Butterfly : 29.86s, Backstroke : 32.48s <br> Lifeguard (Red cross), <br> [Scuba Diving](https://www.instagram.com/uni.dive/) (SDI Advanced Adventure), <br> [Freediving](https://www.instagram.com/uni.dive/) (AIDA Lv.3)"
+        desc: "Freestyle: 26.77s, Butterfly: 29.86s, Backstroke: 32.44s <br> Lifeguard (Red cross), <br> [Scuba Diving](https://www.instagram.com/uni.dive/) (SDI Advanced Adventure), <br> [Freediving](https://www.instagram.com/uni.dive/) (AIDA Lv.3)"
         icon: fas fa-swimmer
       # - title: "Snow Boarding"
       #   desc: "Skiing, Snow Boarding"
