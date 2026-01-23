@@ -122,6 +122,9 @@ en: &DEFAULT_EN
       - desc: "[2] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Physical Layer Security with Partial Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10149521), IEEE Wireless Communications Letter, vol. 12, no. 9, pp. 1637-1641, Sep. 2023"
       - desc: "[3] Sungyu Kim, **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, [&ldquo;Artificial Noise-Aided Max-Min Fairness Secrecy Precoding With Partial Wiretap Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10836942), IEEE Transactions on Vehicular Technology, vol. 74, no. 5, pp. 8390-8395, May 2025"
       - desc: "[4] **Eunsung Choi**, Jinseok Choi*, &ldquo;Artificial Noise-aided Secure MU-MIMO Precoding with Multiple Eavesdroppers and Partial Channel State Information&rdquo;, IEEE Access (under revision)"
+      - subtitle: "[domestic]"
+        desc: "[1] **Eunsung Choi**, Jinseok Choi*, &ldquo;제한된 채널 정보를 활용한 다중 도청 환경에서의 보안 프리코딩 최적화&rdquo;, JKICS (accepted)"
+      
       - title: "**Conference papers**"
       - subtitle: "[international]"
         desc: "[c1] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Enhanced Security with Partial Channel Knowledge&rdquo;](https://2023.ictc.org/media?key=site/ictc2023a/abs/D8-4.pdf), International Conference on Information and Communication Technology Convergence (ICTC), Oct. 11-13, 2023, Jeju Island"
