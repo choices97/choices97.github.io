@@ -120,7 +120,8 @@ en: &DEFAULT_EN
       - subtitle: "[published/accepted]"
         desc: "[1] **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, Jeonghun Park, Namyoon Lee, and Naofal Al-Dhahir, [&ldquo;Joint Precoding and Artificial Noise Design for MU-MIMO Wiretap Channels&rdquo;](https://ieeexplore.ieee.org/document/9973364), IEEE Transactions on Communications, vol. 71, no. 3, pp. 1564 - 1578, Mar. 2023"
       - desc: "[2] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Physical Layer Security with Partial Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10149521), IEEE Wireless Communications Letter, vol. 12, no. 9, pp. 1637-1641, Sep. 2023"
-      - desc: "[3] Sungyu Kim, **Eunsung Choi**, MMintaek Oh, Jinseok Choi*, [&ldquo;Artificial Noise-Aided Max-Min Fairness Secrecy Precoding With Partial Wiretap Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10836942), IEEE Transactions on Vehicular Technology, Jan. 2025 (Early Access)"
+      - desc: "[3] Sungyu Kim, **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, [&ldquo;Artificial Noise-Aided Max-Min Fairness Secrecy Precoding With Partial Wiretap Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10836942), IEEE Transactions on Vehicular Technology, vol. 74, no. 5, pp. 8390-8395, May 2025"
+      - desc: "[4] **Eunsung Choi**, Jinseok Choi*, &ldquo;Artificial Noise-aided Secure MU-MIMO Precoding with Multiple Eavesdroppers and Partial Channel State Information&rdquo;, IEEE Access (under revision)"
       - title: "**Conference papers**"
       - subtitle: "[international]"
         desc: "[c1] Sangmin Lee, **Eunsung Choi**, and Jinseok Choi*, [&ldquo;Max-Min Fairness Precoding for Enhanced Security with Partial Channel Knowledge&rdquo;](https://2023.ictc.org/media?key=site/ictc2023a/abs/D8-4.pdf), International Conference on Information and Communication Technology Convergence (ICTC), Oct. 11-13, 2023, Jeju Island"
@@ -137,7 +138,11 @@ en: &DEFAULT_EN
       - desc: "[dc8] 박석준, **최은성**, 최진석*, &ldquo;SCNR 및 MSE 값 조정을 통한 센싱-통신 통합 시스템&rdquo;, 한국통신학회 추계종합학술대회 (KICS), Nov. 20-22, 2024, 경주 **(Best Paper Award)**"
       - title: "**Patent**"
       - desc: "[1] 최진석*, **최은성**, 이상민, &ldquo;부분적인 채널 지식에서 최대-최소 공정성 보안 통신 기법&rdquo;, No.10-2023-0180312, Dec. 13, 2023"
-      - desc: "[2] 최진석*, 박석준, **최은성**, 장지환, 정재훈, &ldquo;SCNR 및 MSE 조정이 가능한 센싱-통신 통합 시스템&rdquo;, No.10-2024-0111526, Aug. 20, 2024"
+      - desc: "[2] 최진석*, **최은성**, 박석준, 장지환, 정재훈, &ldquo;SCNR 및 MSE 조정이 가능한 센싱-통신 통합 시스템&rdquo;, No.10-2024-0111526, Aug. 20, 2024"
+      - desc: "[3] 최진석*, 박석준, **최은성**, 장지환, 정재훈, &ldquo;코드북 생성을 통한 레이더-통신 통합 자원 할당 방법&rdquo;, No.10-2024-0111512, Aug. 20, 2024"
+      - desc: "[4] 최진석*, **최은성**, &ldquo;멀티빔 멀티캐스트 위성의 보안 빔포밍 시스템 및 그 방법&rdquo;, No.10-2025-0181710, Nov. 26, 2024"
+      - desc: "[2] 최진석*, **최은성**, 장지환, 정재훈, &ldquo;PRS 신호를 활용한 레이더-통신 통합 자원 할당 프로토콜&rdquo;, No.10-2026-XX"
+      - desc: "[2] 최진석*,  **최은성**, 장지환, 정재훈, &ldquo;레이더-통신 통합 자원 할당 알고리즘을 위한 방법 및 장치&rdquo;, No.10-2026-XX"
     page: publication
     # section: portfolio
     closebutton: "Close Publication"
