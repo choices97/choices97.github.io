@@ -222,22 +222,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com/gabriel_yoo__
             icon: fab fa-instagram
-      - name: "Jiwon Sung"
-        role: "M.S Student"
-        image: assets/img/team/3.jpg
-        image-toggled: assets/img/team/jiwon.jpg
-        social:
-          - url: https://sic-x.kaist.ac.kr/home
-            icon: fas fa-globe
-          - url: https://instagram.com/lukasung_
-            icon: fab fa-instagram
-      - name: "Chanho Moon"
-        role: "M.S Student"
-        image: assets/img/team/4.jpg
-        image-toggled: assets/img/team/chanho.jpg
-        social:
-          - url: https://sic-x.kaist.ac.kr/home
-            icon: fas fa-globe
       - name: "Sungyu Kim"
         role: "M.S Student"
         image: assets/img/team/4.jpg
@@ -248,7 +232,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com/burger_coke_
             icon: fab fa-instagram
       - name: "Jun Kang"
-        role: "M.S Student"
+        role: "MS-PhD Combined Student"
         image: assets/img/team/2.jpg
         image-toggled: assets/img/team/jun.jpg
         social:
@@ -283,23 +267,22 @@ en: &DEFAULT_EN
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
       - name: "Soomin Bae"
-        role: "Undergraduate Intern"
+        role: "M.S Student"
         image: assets/img/team/3.jpg
         image-toggled: assets/img/team/soomin.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-      - name: "Mingyu Park"
-        role: "Undergraduate Intern"
+      - name: "Jinho Han"
+        role: "M.S Student"
         image: assets/img/team/3.jpg
-        image-toggled: assets/img/team/minkyu.jpg
+        image-toggled: assets/img/team/jinho.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
-      - name: "Jinho Han"
+      - name: "Donghyeon Nam"
         role: "Undergraduate Intern"
         image: assets/img/team/3.jpg
-        image-toggled: assets/img/team/jinho.jpg
         social:
           - url: https://sic-x.kaist.ac.kr/home
             icon: fas fa-globe
