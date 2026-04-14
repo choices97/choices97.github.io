@@ -126,7 +126,8 @@ en: &DEFAULT_EN
       - desc: "[3] Sungyu Kim, **Eunsung Choi**, Mintaek Oh, Jinseok Choi*, [&ldquo;Artificial Noise-Aided Max-Min Fairness Secrecy Precoding With Partial Wiretap Channel Knowledge&rdquo;](https://ieeexplore.ieee.org/document/10836942), IEEE Transactions on Vehicular Technology, vol. 74, no. 5, pp. 8390-8395, May 2025"
       - desc: "[4] **Eunsung Choi**, Jinseok Choi*, &ldquo;Artificial Noise-aided Secure MU-MIMO Precoding with Multiple Eavesdroppers and Partial Channel State Information&rdquo;, IEEE Access (under revision)"
       - subtitle: "[domestic]"
-        desc: "[1] **Eunsung Choi**, Jinseok Choi*, &ldquo;제한된 채널 정보를 활용한 다중 도청 환경에서의 보안 프리코딩 최적화&rdquo;, JKICS (accepted)"
+        desc: "[1] **Eunsung Choi** and Jinseok Choi*, &ldquo;제한된 채널 정보를 활용한 다중 도청 환경에서의 보안 프리코딩 최적화&rdquo;, 한국통신학회논문지 51.3 (2026): 661-664."
+        desc: "[2] Seokjun Park, **Eunsung Choi**, and Jinseok Choi*, &ldquo;송신 빔패턴 레이더 성능 제약 하에서의 통합 센싱 및 통신 빔포밍 기법&rdquo;, 한국통신학회논문지 51.3 (2026): 657-660."
       
       - title: "**Conference papers**"
       - subtitle: "[international]"
