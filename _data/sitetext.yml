@@ -105,7 +105,7 @@ en: &DEFAULT_EN
         icon: fas fa-swimmer
       - title: "Diving"
         desc: "[Freediving](https://www.instagram.com/uni.dive/) (AIDA Lv.4) <br> STA: 4m 2s, DYN: 75m, CWT: 36m, FIM: 36m, <br> [Scuba Diving](https://www.instagram.com/uni.dive/) (SDI Advanced Adventure) "
-        icon: fas fa-mask-snorkel
+        icon: fas fa-water
       # - title: "Snow Boarding"
       #   desc: "Skiing, Snow Boarding"
       #   icon: fas fa-snowflake
